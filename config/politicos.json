@@ -1,0 +1,418 @@
+{
+  "_comentario": "Este é o arquivo mais importante do projeto. Cada entrada liga um político real a: (1) o ID dele nas APIs oficiais (Câmara/Senado/SAPL/TSE) e (2) as promessas de campanha, que precisam ser inseridas manualmente a partir de fontes públicas (site de campanha, plano de governo registrado no TSE, entrevistas). NENHUMA promessa foi inventada aqui — os campos 'promessas_campanha' estão vazios de propósito, com uma dica de onde procurar. Preencha com texto real e sempre cite a fonte.",
+  "como_preencher": [
+    "1. Ache o político em https://www.camara.leg.br ou https://www25.senado.leg.br e copie o ID numérico da URL do perfil dele.",
+    "2. Para prefeitos/governadores/presidente, baixe o 'Plano de Governo' (PDF) registrado na candidatura em https://divulgacandcontas.tse.jus.br e resuma as propostas em bullet points curtos.",
+    "3. Marque cada promessa com um ou mais 'temas' (ver config/temas.json) para permitir o cruzamento automático.",
+    "4. Rode 'npm run build:comparacoes' para gerar o cruzamento com as proposições/votos já baixados."
+  ],
+  "_nota_sobre_ids_pendentes": "Campos marcados 'PREENCHER' podem ser copiados diretamente de docs/data/tse/candidatos/<UF>/<cargo>.json no seu próprio computador (gerado por 'npm run fetch:tse-candidatos') — procure pelo nome de urna e copie o valor de SQ_CANDIDATO. Isso é mais confiável do que eu tentar adivinhar o número aqui.",
+
+  "politicos": [
+    {
+      "id_interno": "nikolas-ferreira",
+      "nome": "Nikolas Ferreira",
+      "cargo": "Deputado Federal",
+      "casa": "camara",
+      "id_camara": 209787,
+      "uf": "MG",
+      "partido": "PL",
+      "fonte_dados": "https://dadosabertos.camara.leg.br/api/v2/deputados/209787",
+      "observacao": "ID confirmado via camara.leg.br/deputados/209787. Busca campanha à reeleição em 2026.",
+      "promessas_campanha": []
+    },
+
+    {
+      "id_interno": "andre-fernandes-ce",
+      "nome": "André Fernandes",
+      "cargo": "Deputado Federal",
+      "casa": "camara",
+      "id_camara": 220657,
+      "uf": "CE",
+      "partido": "PL",
+      "fonte_dados": "https://dadosabertos.camara.leg.br/api/v2/deputados/220657",
+      "observacao": "ID confirmado via camara.leg.br/deputados/220657. Um dos 19 deputados do CE buscando reeleição em 2026.",
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "danilo-forte-ce",
+      "nome": "Danilo Forte",
+      "cargo": "Deputado Federal",
+      "casa": "camara",
+      "id_camara": 62881,
+      "uf": "CE",
+      "partido": "PP",
+      "fonte_dados": "https://dadosabertos.camara.leg.br/api/v2/deputados/62881",
+      "observacao": "ID confirmado via camara.leg.br/deputados/62881. Buscando reeleição em 2026 (partido já mudou algumas vezes ao longo do mandato — confirme o atual).",
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "andre-figueiredo-ce",
+      "nome": "André Figueiredo",
+      "cargo": "Deputado Federal",
+      "casa": "camara",
+      "id_camara": null,
+      "uf": "CE",
+      "partido": "PDT",
+      "fonte_dados": null,
+      "observacao": "PREENCHER id_camara — busque 'André Figueiredo' em camara.leg.br/deputados. Buscando reeleição em 2026.",
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "domingos-neto-ce",
+      "nome": "Domingos Neto",
+      "cargo": "Deputado Federal",
+      "casa": "camara",
+      "id_camara": null,
+      "uf": "CE",
+      "partido": "PSD",
+      "fonte_dados": null,
+      "observacao": "PREENCHER id_camara — busque 'Domingos Neto' em camara.leg.br/deputados (coordenador da bancada do CE). Buscando reeleição em 2026.",
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "jose-airton-ce",
+      "nome": "José Airton",
+      "cargo": "Deputado Federal",
+      "casa": "camara",
+      "id_camara": null,
+      "uf": "CE",
+      "partido": "PT",
+      "fonte_dados": null,
+      "observacao": "PREENCHER id_camara — busque 'José Airton' em camara.leg.br/deputados. Buscando reeleição em 2026.",
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "mauro-benevides-filho-ce",
+      "nome": "Mauro Benevides Filho",
+      "cargo": "Deputado Federal",
+      "casa": "camara",
+      "id_camara": null,
+      "uf": "CE",
+      "partido": "União Brasil",
+      "fonte_dados": null,
+      "observacao": "PREENCHER id_camara — busque 'Mauro Benevides Filho' em camara.leg.br/deputados. Buscando reeleição em 2026.",
+      "promessas_campanha": []
+    },
+
+    {
+      "id_interno": "cid-gomes-senado",
+      "nome": "Cid Gomes",
+      "cargo": "Senador",
+      "casa": "senado",
+      "id_senado": 5973,
+      "uf": "CE",
+      "partido": "PSB",
+      "fonte_dados": "https://legis.senado.leg.br/dadosabertos/senador/5973.json",
+      "observacao": "ID confirmado via legis.senado.leg.br/dadosabertos/senador/lista/atual. Candidato à reeleição em 2026.",
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "alcides-fernandes-senado-ce",
+      "nome": "Alcides Fernandes",
+      "cargo": "Senador (candidato)",
+      "casa": "senado",
+      "id_senado": null,
+      "uf": "CE",
+      "partido": "PL",
+      "observacao": "Candidato a uma das vagas do CE em 2026 — ainda não tem mandato, então não há dados de votação ainda (só existirão se for eleito). Pai do deputado André Fernandes.",
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "capitao-wagner-senado-ce",
+      "nome": "Capitão Wagner",
+      "cargo": "Senador (candidato)",
+      "casa": "senado",
+      "id_senado": null,
+      "uf": "CE",
+      "partido": "União Brasil",
+      "observacao": "Candidato a uma das vagas do CE em 2026 — ex-deputado federal e estadual, já concorreu a prefeito e governador antes.",
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "catarina-matos-senado-ce",
+      "nome": "Catarina Matos",
+      "cargo": "Senadora (candidata)",
+      "casa": "senado",
+      "id_senado": null,
+      "uf": "CE",
+      "partido": "Unidade Popular (UP)",
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "general-theophilo-senado-ce",
+      "nome": "General Theophilo",
+      "cargo": "Senador (candidato)",
+      "casa": "senado",
+      "id_senado": null,
+      "uf": "CE",
+      "partido": "Novo",
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "luizianne-lins-senado-ce",
+      "nome": "Luizianne Lins",
+      "cargo": "Senadora (candidata)",
+      "casa": "senado",
+      "id_senado": null,
+      "uf": "CE",
+      "partido": "verificar (fontes divergem entre Rede e PT)",
+      "observacao": "Era deputada federal pelo PT; fontes de agosto/2026 divergem sobre a legenda usada para a candidatura ao Senado. Confirme em docs/data/tse/candidatos/CE/senador.json antes de publicar.",
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "reginaldo-ferreira-senado-ce",
+      "nome": "Reginaldo Ferreira",
+      "cargo": "Senador (candidato)",
+      "casa": "senado",
+      "id_senado": null,
+      "uf": "CE",
+      "partido": "PSTU",
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "senado-ce-8a-vaga-verificar",
+      "nome": "PREENCHER — 8ª candidatura ao Senado pelo CE",
+      "cargo": "Senador (candidato)",
+      "casa": "senado",
+      "id_senado": null,
+      "uf": "CE",
+      "partido": null,
+      "observacao": "As fontes consultadas confirmaram 'oito candidaturas registradas no TSE' para o Senado pelo CE em 2026, mas só nomearam 7. Confira docs/data/tse/candidatos/CE/senador.json (gerado localmente) para achar o 8º nome e substituir esta entrada.",
+      "promessas_campanha": []
+    },
+
+    {
+      "id_interno": "elmano-de-freitas-governador-ce",
+      "nome": "Elmano de Freitas",
+      "cargo": "Governador",
+      "casa": "executivo",
+      "uf": "CE",
+      "partido": "PT",
+      "id_candidato_tse": null,
+      "observacao": "PREENCHER id_candidato_tse (SQ_CANDIDATO) a partir de docs/data/tse/candidatos/CE/governador.json. Governador atual, candidato à reeleição em 2026.",
+      "promessas_campanha": [],
+      "atos_executivos": []
+    },
+    {
+      "id_interno": "ciro-gomes-governador-ce",
+      "nome": "Ciro Gomes",
+      "cargo": "Governador",
+      "casa": "executivo",
+      "uf": "CE",
+      "partido": "PSDB",
+      "id_candidato_tse": null,
+      "observacao": "PREENCHER id_candidato_tse. Ex-governador do CE (1991-1994), ex-prefeito de Fortaleza, ex-deputado federal, ex-ministro.",
+      "promessas_campanha": [],
+      "atos_executivos": []
+    },
+    {
+      "id_interno": "danilo-soares-governador-ce",
+      "nome": "Danilo Soares",
+      "cargo": "Governador (candidato)",
+      "casa": "executivo",
+      "uf": "CE",
+      "partido": "Democracia Cristã (DC)",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "delegado-hugo-governador-ce",
+      "nome": "Delegado Hugo",
+      "cargo": "Governador (candidato)",
+      "casa": "executivo",
+      "uf": "CE",
+      "partido": "Missão",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "ieri-braga-governador-ce",
+      "nome": "Ieri Braga",
+      "cargo": "Governador (candidato)",
+      "casa": "executivo",
+      "uf": "CE",
+      "partido": "PCO",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "serley-leal-governador-ce",
+      "nome": "Serley Leal",
+      "cargo": "Governador (candidato)",
+      "casa": "executivo",
+      "uf": "CE",
+      "partido": "Unidade Popular (UP)",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "vera-lucia-governador-ce",
+      "nome": "Vera Lúcia",
+      "cargo": "Governador (candidata)",
+      "casa": "executivo",
+      "uf": "CE",
+      "partido": "Novo",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "ze-batista-governador-ce",
+      "nome": "Zé Batista",
+      "cargo": "Governador (candidato)",
+      "casa": "executivo",
+      "uf": "CE",
+      "partido": "PSTU",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+
+    {
+      "id_interno": "lula-presidente",
+      "nome": "Luiz Inácio Lula da Silva",
+      "cargo": "Presidente",
+      "casa": "executivo",
+      "uf": "BR",
+      "partido": "PT",
+      "id_candidato_tse": null,
+      "observacao": "PREENCHER id_candidato_tse a partir de docs/data/tse/candidatos/BR/presidente.json. Presidente atual, candidato à reeleição.",
+      "promessas_campanha": [],
+      "atos_executivos": []
+    },
+    {
+      "id_interno": "flavio-bolsonaro-presidente",
+      "nome": "Flávio Bolsonaro",
+      "cargo": "Presidente (candidato)",
+      "casa": "executivo",
+      "uf": "BR",
+      "partido": "PL",
+      "id_candidato_tse": null,
+      "observacao": "Atual senador pelo RJ, licenciando-se para concorrer à Presidência.",
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "pablo-marcal-presidente",
+      "nome": "Pablo Marçal",
+      "cargo": "Presidente (candidato)",
+      "casa": "executivo",
+      "uf": "BR",
+      "partido": "verificar",
+      "id_candidato_tse": null,
+      "observacao": "Fontes indicam que ele se registrou como candidato apesar de decisão do TRE-SP sobre inelegibilidade — situação pode mudar por decisão judicial. Confirme status em docs/data/tse/candidatos/BR/presidente.json antes de publicar.",
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "ronaldo-caiado-presidente",
+      "nome": "Ronaldo Caiado",
+      "cargo": "Presidente (candidato)",
+      "casa": "executivo",
+      "uf": "BR",
+      "partido": "verificar",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "romeu-zema-presidente",
+      "nome": "Romeu Zema",
+      "cargo": "Presidente (candidato)",
+      "casa": "executivo",
+      "uf": "BR",
+      "partido": "Novo",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "augusto-cury-presidente",
+      "nome": "Augusto Cury",
+      "cargo": "Presidente (candidato)",
+      "casa": "executivo",
+      "uf": "BR",
+      "partido": "Avante",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "cabo-daciolo-presidente",
+      "nome": "Cabo Daciolo",
+      "cargo": "Presidente (candidato)",
+      "casa": "executivo",
+      "uf": "BR",
+      "partido": "Mobiliza",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "rui-costa-pimenta-presidente",
+      "nome": "Rui Costa Pimenta",
+      "cargo": "Presidente (candidato)",
+      "casa": "executivo",
+      "uf": "BR",
+      "partido": "PCO",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "renan-santos-presidente",
+      "nome": "Renan Santos",
+      "cargo": "Presidente (candidato)",
+      "casa": "executivo",
+      "uf": "BR",
+      "partido": "Missão",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "samara-martins-presidente",
+      "nome": "Samara Martins",
+      "cargo": "Presidente (candidata)",
+      "casa": "executivo",
+      "uf": "BR",
+      "partido": "Unidade Popular (UP)",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "hertz-dias-presidente",
+      "nome": "Hertz Dias",
+      "cargo": "Presidente (candidato)",
+      "casa": "executivo",
+      "uf": "BR",
+      "partido": "PSTU",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "edmilson-costa-presidente",
+      "nome": "Edmilson Costa",
+      "cargo": "Presidente (candidato)",
+      "casa": "executivo",
+      "uf": "BR",
+      "partido": "PCB",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "atila-maia-presidente",
+      "nome": "Átila Maia",
+      "cargo": "Presidente (candidato)",
+      "casa": "executivo",
+      "uf": "BR",
+      "partido": "Democrata (ex-PMB)",
+      "id_candidato_tse": null,
+      "promessas_campanha": []
+    },
+
+    {
+      "id_interno": "exemplo-vereador-sapl",
+      "nome": "(EXEMPLO — não é uma pessoa real) Nome do Vereador",
+      "cargo": "Vereador",
+      "casa": "municipal",
+      "municipio": "Nome do Município/UF",
+      "sistema": "sapl",
+      "sapl_instancia": "https://sapl.NOMEDOMUNICIPIO.leg.br",
+      "id_sapl_parlamentar": 0,
+      "observacao": "Mantido só como modelo de preenchimento para câmaras municipais em SAPL — substitua por um vereador real quando cadastrar um.",
+      "promessas_campanha": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "dossie-cidadao",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site estático (HTML + Tailwind v4 + JS puro) que compara promessas de campanha de políticos brasileiros com sua atuação legislativa real, usando dados abertos oficiais. Retroalimentado via GitHub Actions.",
+  "license": "MIT",
+  "scripts": {
+    "fetch:camara": "node scripts/fetch-camara.js",
+    "fetch:senado": "node scripts/fetch-senado.js",
+    "fetch:sapl": "node scripts/fetch-sapl.js",
+    "fetch:tse": "node scripts/fetch-tse-propostas.js",
+    "fetch:tse-candidatos": "node scripts/fetch-tse-candidatos.js",
+    "fetch:tse-planos-governo": "node scripts/fetch-tse-planos-governo.js",
+    "fetch:all": "npm run fetch:camara && npm run fetch:senado && npm run fetch:sapl && npm run fetch:tse && npm run fetch:tse-candidatos && npm run fetch:tse-planos-governo",
+    "build:comparacoes": "node scripts/build-comparacoes.js",
+    "build:css": "tailwindcss -i ./src/input.css -o ./docs/css/style.css --minify",
+    "build:css:watch": "tailwindcss -i ./src/input.css -o ./docs/css/style.css --watch",
+    "atualizar": "npm run fetch:all && npm run build:comparacoes && npm run build:css",
+    "dev": "npx serve docs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.0",
+    "tailwindcss": "^4.0.0"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.10"
+  }
+}

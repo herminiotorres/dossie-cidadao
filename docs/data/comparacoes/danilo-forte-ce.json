@@ -1,0 +1,29 @@
+{
+  "id_interno": "danilo-forte-ce",
+  "nome": "Danilo Forte",
+  "cargo": "Deputado Federal",
+  "status": "ok",
+  "total_promessas": 0,
+  "total_proposicoes_autoria": 549,
+  "temas": {
+    "convergente": [],
+    "sem_atuacao_encontrada": [],
+    "atuacao_fora_das_promessas": [
+      "saude",
+      "trabalho_previdencia",
+      "economia",
+      "administracao_publica",
+      "educacao",
+      "tecnologia",
+      "seguranca",
+      "infraestrutura",
+      "direitos_humanos",
+      "meio_ambiente"
+    ]
+  },
+  "resumo_votos": {
+    "total_votos_registrados": 810
+  },
+  "metodologia_versao": "1.0-cruzamento-por-tema",
+  "gerado_em": "2026-08-26T20:03:05.104Z"
+}

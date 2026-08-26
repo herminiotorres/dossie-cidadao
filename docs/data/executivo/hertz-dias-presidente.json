@@ -1,0 +1,10 @@
+{
+  "id_interno": "hertz-dias-presidente",
+  "nome": "Hertz Dias",
+  "cargo": "Presidente (candidato)",
+  "dados_tse": null,
+  "observacao": "Dados do TSE não coletados automaticamente (falta id_candidato_tse ou pacote não localizado). Preencha 'promessas_campanha' manualmente em config/politicos.json.",
+  "promessas_campanha": [],
+  "atos_executivos": [],
+  "atualizado_em": "2026-08-26T19:36:19.849Z"
+}

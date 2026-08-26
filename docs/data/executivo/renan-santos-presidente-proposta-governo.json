@@ -1,0 +1,14 @@
+{
+  "id_interno": "renan-santos-presidente",
+  "nome": "Renan Santos",
+  "cargo": "Presidente (candidato)",
+  "uf_consultada": "BR",
+  "correspondencia": {
+    "confianca": "alta",
+    "metodo": "SQ_CANDIDATO 280002540694 (de docs/data/tse/candidatos/BR/presidente.json) encontrado no nome do arquivo",
+    "arquivo": "2026BR280002540694_01.pdf",
+    "sq_candidato": "280002540694"
+  },
+  "instrucao": "Correspondência automática de alta confiança (via SQ_CANDIDATO oficial).",
+  "atualizado_em": "2026-08-26T20:02:51.744Z"
+}

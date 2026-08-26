@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Dossiê Cidadão — dossiê individual</title>
+
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500;700&family=Public+Sans:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+
+<style type="text/tailwindcss">
+  @theme {
+    --color-paper: #ece1c2; --color-paper-dark: #ddcb9e; --color-card: #faf6ea;
+    --color-ink: #2a2115; --color-ink-soft: #5b4f3d;
+    --color-stamp-green: #2f6f4f; --color-stamp-red: #a1372f; --color-stamp-blue: #33507a;
+    --color-brass: #a9812c;
+    --font-display: "Roboto Slab", Georgia, serif;
+    --font-body: "Public Sans", "Segoe UI", sans-serif;
+    --font-data: "IBM Plex Mono", "Courier New", monospace;
+  }
+  body { background-color: var(--color-paper); color: var(--color-ink); font-family: var(--font-body); }
+  h1, h2, h3, .font-display { font-family: var(--font-display); }
+  .font-data { font-family: var(--font-data); }
+  .cartao-dossie {
+    background-color: var(--color-card); border: 1px solid rgba(42,33,21,0.15);
+    box-shadow: 0 6px 0 -3px rgba(42,33,21,0.08), 0 10px 20px -8px rgba(42,33,21,0.25);
+  }
+  .carimbo {
+    display: inline-flex; align-items: center; justify-content: center;
+    border: 3px double currentColor; border-radius: 6px;
+    padding: 0.35rem 0.75rem; font-family: var(--font-display); font-weight: 700;
+    letter-spacing: 0.06em; text-transform: uppercase; font-size: 0.8rem;
+    transform: rotate(-3deg); opacity: 0.9; mix-blend-mode: multiply;
+  }
+  .carimbo-verde { color: var(--color-stamp-green); }
+  .carimbo-vermelho { color: var(--color-stamp-red); }
+  .carimbo-azul { color: var(--color-stamp-blue); }
+  .etiqueta-tema {
+    border: 1px solid rgba(42,33,21,0.25); border-radius: 999px;
+    padding: 0.15rem 0.65rem; font-size: 0.75rem; white-space: nowrap;
+  }
+  .carimbo-verde-fraco { background-color: color-mix(in srgb, var(--color-stamp-green) 12%, transparent); border-color: var(--color-stamp-green); color: var(--color-stamp-green); }
+  .carimbo-vermelho-fraco { background-color: color-mix(in srgb, var(--color-stamp-red) 12%, transparent); border-color: var(--color-stamp-red); color: var(--color-stamp-red); }
+  .carimbo-azul-fraco { background-color: color-mix(in srgb, var(--color-stamp-blue) 12%, transparent); border-color: var(--color-stamp-blue); color: var(--color-stamp-blue); }
+</style>
+</head>
+<body class="min-h-screen">
+
+  <header class="border-b-4 border-double border-[var(--color-ink)]/30 bg-[var(--color-card)]/60">
+    <div class="max-w-4xl mx-auto px-6 py-6 flex items-center justify-between">
+      <a href="index.html" class="font-display font-bold text-lg hover:text-[var(--color-brass)]">← Dossiê Cidadão</a>
+      <a href="metodologia.html" class="text-sm underline decoration-dotted underline-offset-4 hover:text-[var(--color-brass)]">Metodologia</a>
+    </div>
+  </header>
+
+  <main class="max-w-4xl mx-auto px-6 py-10" id="conteudo">
+    <p class="font-data text-sm">Carregando dossiê…</p>
+  </main>
+
+  <script src="js/dossie.js"></script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Candidatos 2026 — Dossiê Cidadão</title>
+<meta name="description" content="Lista oficial de candidatos das Eleições Gerais de 2026 (presidente, governador, senador, deputado federal/estadual/distrital), direto da base de dados abertos do TSE." />
+
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500;700&family=Public+Sans:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+
+<style type="text/tailwindcss">
+  @theme {
+    --color-paper: #ece1c2; --color-paper-dark: #ddcb9e; --color-card: #faf6ea;
+    --color-ink: #2a2115; --color-ink-soft: #5b4f3d;
+    --color-stamp-green: #2f6f4f; --color-stamp-red: #a1372f; --color-stamp-blue: #33507a;
+    --color-brass: #a9812c;
+    --font-display: "Roboto Slab", Georgia, serif;
+    --font-body: "Public Sans", "Segoe UI", sans-serif;
+    --font-data: "IBM Plex Mono", "Courier New", monospace;
+  }
+  body { background-color: var(--color-paper); color: var(--color-ink); font-family: var(--font-body); }
+  h1, h2, .font-display { font-family: var(--font-display); }
+  .font-data { font-family: var(--font-data); }
+  .cartao-dossie { background-color: var(--color-card); border: 1px solid rgba(42,33,21,0.15); box-shadow: 0 10px 20px -8px rgba(42,33,21,0.25); }
+  select, input[type="search"] {
+    background-color: var(--color-card); border: 1px solid rgba(42,33,21,0.3);
+    border-radius: 6px; padding: 0.45rem 0.7rem; font-family: var(--font-body);
+  }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { text-align: left; padding: 0.5rem 0.75rem; border-bottom: 1px dashed rgba(42,33,21,0.2); font-size: 0.9rem; }
+  th { font-family: var(--font-display); font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--color-ink-soft); }
+  tr:hover td { background-color: rgba(169,129,44,0.08); }
+  .etiqueta-situacao {
+    font-family: var(--font-data); font-size: 0.7rem; padding: 0.1rem 0.5rem;
+    border-radius: 999px; border: 1px solid currentColor; white-space: nowrap;
+  }
+</style>
+</head>
+<body class="min-h-screen">
+
+  <header class="border-b-4 border-double border-[var(--color-ink)]/30 bg-[var(--color-card)]/60">
+    <div class="max-w-5xl mx-auto px-6 py-6 flex items-center justify-between flex-wrap gap-2">
+      <a href="index.html" class="font-display font-bold text-lg hover:text-[var(--color-brass)]">← Dossiê Cidadão</a>
+      <a href="metodologia.html" class="text-sm underline decoration-dotted underline-offset-4 hover:text-[var(--color-brass)]">Metodologia</a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-6 py-10">
+    <h1 class="font-display text-3xl font-bold">Candidatos às Eleições Gerais de 2026</h1>
+    <p class="mt-2 text-[var(--color-ink-soft)] max-w-2xl">
+      Base oficial do TSE (Portal de Dados Abertos), atualizada automaticamente. Cobre presidente,
+      governador, senador e deputado federal/estadual/distrital — 2026 não tem eleição de
+      prefeito/vereador.
+    </p>
+    <p class="mt-2 text-sm font-data bg-[var(--color-card)] border border-[var(--color-ink)]/20 rounded p-3" id="aviso-status">
+      carregando status da base…
+    </p>
+
+    <div class="cartao-dossie rounded-lg p-5 mt-6">
+      <div class="flex flex-wrap gap-3 items-end">
+        <label class="flex flex-col text-sm gap-1">
+          UF
+          <select id="filtro-uf"></select>
+        </label>
+        <label class="flex flex-col text-sm gap-1">
+          Cargo
+          <select id="filtro-cargo"></select>
+        </label>
+        <label class="flex flex-col text-sm gap-1 grow min-w-[200px]">
+          Buscar por nome ou partido
+          <input type="search" id="filtro-busca" placeholder="ex: Silva, PT, Souza..." />
+        </label>
+      </div>
+
+      <p class="mt-4 text-sm text-[var(--color-ink-soft)] font-data" id="contador-resultados"></p>
+
+      <div class="mt-3 overflow-x-auto">
+        <table id="tabela-candidatos">
+          <thead>
+            <tr>
+              <th>Nome de urna</th>
+              <th>Número</th>
+              <th>Partido</th>
+              <th>Situação da candidatura</th>
+              <th>Resultado</th>
+            </tr>
+          </thead>
+          <tbody id="corpo-tabela"></tbody>
+        </table>
+      </div>
+
+      <p class="text-xs text-[var(--color-ink-soft)] mt-3 italic" id="aviso-paginacao"></p>
+    </div>
+  </main>
+
+  <script src="js/candidatos.js"></script>
+</body>
+</html>

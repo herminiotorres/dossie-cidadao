@@ -1,0 +1,84 @@
+name: Atualizar dados dos políticos
+
+# Este workflow é a parte "retroalimentável" do site: roda sozinho, periodicamente,
+# busca dados atualizados nas APIs oficiais e faz commit dos JSONs resultantes em docs/data/.
+# Como o site (docs/) só lê arquivos estáticos, não é preciso nenhum servidor rodando 24h.
+
+on:
+  schedule:
+    # Todos os dias às 06:00 UTC (03:00 no horário de Brasília). Ajuste como preferir —
+    # https://crontab.guru ajuda a montar a expressão.
+    - cron: "0 6 * * *"
+  workflow_dispatch: {} # permite rodar manualmente pela aba "Actions" no GitHub
+  push:
+    branches: [main]
+    paths:
+      - "config/**"
+      - "scripts/**"
+      - "src/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-dados
+  cancel-in-progress: true
+
+jobs:
+  coletar-e-publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Coletar dados da Câmara dos Deputados
+        run: npm run fetch:camara
+        continue-on-error: true # uma falha aqui não deve travar as outras coletas
+
+      - name: Coletar dados do Senado Federal
+        run: npm run fetch:senado
+        continue-on-error: true
+
+      - name: Coletar dados de câmaras/assembleias em SAPL
+        run: npm run fetch:sapl
+        continue-on-error: true
+
+      - name: Coletar dados de propostas do TSE (executivo)
+        run: npm run fetch:tse
+        continue-on-error: true
+
+      - name: Coletar base completa de candidatos 2026 (TSE)
+        run: npm run fetch:tse-candidatos
+        continue-on-error: true
+
+      - name: Coletar e catalogar planos de governo em PDF (TSE)
+        run: npm run fetch:tse-planos-governo
+        continue-on-error: true
+
+      - name: Gerar comparações (promessa x atuação)
+        run: npm run build:comparacoes
+
+      # O site usa o Tailwind v4 via Play CDN (compilação no navegador), então não há CSS para
+      # compilar por padrão. Se você migrar para o build via CLI (ver README), descomente:
+      # - name: Compilar CSS do Tailwind v4
+      #   run: npm run build:css
+
+      - name: Commitar dados atualizados
+        run: |
+          git config user.name "dossie-cidadao-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then
+            echo "Nada novo para commitar."
+          else
+            git commit -m "chore: atualizacao automatica de dados ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi

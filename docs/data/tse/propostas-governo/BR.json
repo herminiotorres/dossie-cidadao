@@ -1,0 +1,63 @@
+{
+  "uf": "BR",
+  "fonte": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
+  "total_arquivos": 14,
+  "arquivos": [
+    {
+      "nome": "2026BR280002538811_01.pdf",
+      "tamanho_kb": 1397
+    },
+    {
+      "nome": "2026BR280002539826_01.pdf",
+      "tamanho_kb": 862
+    },
+    {
+      "nome": "2026BR280002540694_01.pdf",
+      "tamanho_kb": 1652
+    },
+    {
+      "nome": "2026BR280002541457_01.pdf",
+      "tamanho_kb": 722
+    },
+    {
+      "nome": "2026BR280002542548_01.pdf",
+      "tamanho_kb": 1162
+    },
+    {
+      "nome": "2026BR280002548139_01.pdf",
+      "tamanho_kb": 1575
+    },
+    {
+      "nome": "2026BR280002551544_01.pdf",
+      "tamanho_kb": 1895
+    },
+    {
+      "nome": "2026BR280002551547_01.pdf",
+      "tamanho_kb": 4812
+    },
+    {
+      "nome": "2026BR280002551932_01.pdf",
+      "tamanho_kb": 977
+    },
+    {
+      "nome": "2026BR280002551975_01.pdf",
+      "tamanho_kb": 308
+    },
+    {
+      "nome": "2026BR280002552484_01.pdf",
+      "tamanho_kb": 63
+    },
+    {
+      "nome": "2026BR280002552487_01.pdf",
+      "tamanho_kb": 94
+    },
+    {
+      "nome": "2026BR280002553884_01.pdf",
+      "tamanho_kb": 1869
+    },
+    {
+      "nome": "leiame.pdf",
+      "tamanho_kb": 159
+    }
+  ]
+}

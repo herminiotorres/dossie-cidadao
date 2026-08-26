@@ -1,0 +1,55 @@
+{
+  "_comentario": "Dicionário de temas usado pelo scripts/lib/tagging.js para classificar propostas de campanha e proposições legislativas. Edite livremente: quanto melhor esse dicionário, melhor a comparação. Isso é curadoria manual e transparente — não é IA decidindo sozinha.",
+  "temas": [
+    {
+      "id": "saude",
+      "nome": "Saúde",
+      "palavras_chave": ["saúde", "sus", "hospital", "posto de saúde", "upa", "médico", "enfermagem", "vacina", "saúde mental", "atenção básica", "plano de saúde", "farmácia popular"]
+    },
+    {
+      "id": "educacao",
+      "nome": "Educação",
+      "palavras_chave": ["educação", "escola", "creche", "professor", "universidade", "ensino médio", "ensino fundamental", "merenda", "fundeb", "alfabetização", "ensino superior", "bolsa de estudo"]
+    },
+    {
+      "id": "seguranca",
+      "nome": "Segurança Pública",
+      "palavras_chave": ["segurança pública", "polícia", "violência", "criminalidade", "presídio", "sistema prisional", "guarda municipal", "armas", "milícia", "tráfico"]
+    },
+    {
+      "id": "economia",
+      "nome": "Economia e Emprego",
+      "palavras_chave": ["emprego", "imposto", "tributo", "economia", "renda", "salário", "microempreendedor", "mei", "geração de emprego", "reforma tributária", "orçamento", "dívida pública", "juros"]
+    },
+    {
+      "id": "meio_ambiente",
+      "nome": "Meio Ambiente",
+      "palavras_chave": ["meio ambiente", "desmatamento", "clima", "sustentabilidade", "amazônia", "saneamento", "lixo", "resíduos", "energia limpa", "área verde", "poluição"]
+    },
+    {
+      "id": "infraestrutura",
+      "nome": "Infraestrutura e Mobilidade",
+      "palavras_chave": ["mobilidade", "transporte público", "estrada", "rodovia", "saneamento básico", "moradia", "habitação", "asfalto", "obra pública", "ônibus", "metrô", "ciclovia"]
+    },
+    {
+      "id": "trabalho_previdencia",
+      "nome": "Trabalho e Previdência",
+      "palavras_chave": ["previdência", "aposentadoria", "trabalhista", "clt", "inss", "pensão", "reforma da previdência", "carteira assinada"]
+    },
+    {
+      "id": "direitos_humanos",
+      "nome": "Direitos Humanos e Igualdade",
+      "palavras_chave": ["direitos humanos", "mulher", "racismo", "lgbt", "criança e adolescente", "idoso", "pessoa com deficiência", "igualdade", "discriminação", "povos indígenas", "quilombola"]
+    },
+    {
+      "id": "tecnologia",
+      "nome": "Tecnologia e Comunicação",
+      "palavras_chave": ["internet", "tecnologia", "inteligência artificial", "dados pessoais", "inclusão digital", "telecomunicações", "governo digital"]
+    },
+    {
+      "id": "administracao_publica",
+      "nome": "Administração Pública e Transparência",
+      "palavras_chave": ["transparência", "corrupção", "gestão pública", "servidor público", "licitação", "fiscalização", "controle externo", "prestação de contas"]
+    }
+  ]
+}

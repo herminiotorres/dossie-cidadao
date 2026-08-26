@@ -1,0 +1,14 @@
+{
+  "id_interno": "rui-costa-pimenta-presidente",
+  "nome": "Rui Costa Pimenta",
+  "cargo": "Presidente (candidato)",
+  "uf_consultada": "BR",
+  "correspondencia": {
+    "confianca": "alta",
+    "metodo": "SQ_CANDIDATO 280002552487 (de docs/data/tse/candidatos/BR/presidente.json) encontrado no nome do arquivo",
+    "arquivo": "2026BR280002552487_01.pdf",
+    "sq_candidato": "280002552487"
+  },
+  "instrucao": "Correspondência automática de alta confiança (via SQ_CANDIDATO oficial).",
+  "atualizado_em": "2026-08-26T20:02:51.744Z"
+}

@@ -1,0 +1,14 @@
+{
+  "id_interno": "ieri-braga-governador-ce",
+  "nome": "Ieri Braga",
+  "cargo": "Governador (candidato)",
+  "uf_consultada": "CE",
+  "correspondencia": {
+    "confianca": "alta",
+    "metodo": "SQ_CANDIDATO 60002552320 (de docs/data/tse/candidatos/CE/governador.json) encontrado no nome do arquivo",
+    "arquivo": "2026CE60002552320_01.pdf",
+    "sq_candidato": "60002552320"
+  },
+  "instrucao": "Correspondência automática de alta confiança (via SQ_CANDIDATO oficial).",
+  "atualizado_em": "2026-08-26T20:02:51.730Z"
+}

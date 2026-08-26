@@ -1,0 +1,29 @@
+{
+  "id_interno": "nikolas-ferreira",
+  "nome": "Nikolas Ferreira",
+  "cargo": "Deputado Federal",
+  "status": "ok",
+  "total_promessas": 0,
+  "total_proposicoes_autoria": 1649,
+  "temas": {
+    "convergente": [],
+    "sem_atuacao_encontrada": [],
+    "atuacao_fora_das_promessas": [
+      "saude",
+      "seguranca",
+      "trabalho_previdencia",
+      "administracao_publica",
+      "economia",
+      "tecnologia",
+      "educacao",
+      "direitos_humanos",
+      "infraestrutura",
+      "meio_ambiente"
+    ]
+  },
+  "resumo_votos": {
+    "total_votos_registrados": 1096
+  },
+  "metodologia_versao": "1.0-cruzamento-por-tema",
+  "gerado_em": "2026-08-26T20:03:05.099Z"
+}

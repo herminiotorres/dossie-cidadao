@@ -1,0 +1,47 @@
+{
+  "uf": "CE",
+  "fonte": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_CE.zip",
+  "total_arquivos": 10,
+  "arquivos": [
+    {
+      "nome": "2026CE60002531351_01.pdf",
+      "tamanho_kb": 685
+    },
+    {
+      "nome": "2026CE60002533729_01.pdf",
+      "tamanho_kb": 588
+    },
+    {
+      "nome": "2026CE60002540336_01.pdf",
+      "tamanho_kb": 310
+    },
+    {
+      "nome": "2026CE60002540417_01.pdf",
+      "tamanho_kb": 770
+    },
+    {
+      "nome": "2026CE60002540418_01.pdf",
+      "tamanho_kb": 770
+    },
+    {
+      "nome": "2026CE60002543969_01.pdf",
+      "tamanho_kb": 451
+    },
+    {
+      "nome": "2026CE60002549967_01.pdf",
+      "tamanho_kb": 388
+    },
+    {
+      "nome": "2026CE60002552320_01.pdf",
+      "tamanho_kb": 94
+    },
+    {
+      "nome": "2026CE60002552498_01.pdf",
+      "tamanho_kb": 293
+    },
+    {
+      "nome": "leiame.pdf",
+      "tamanho_kb": 159
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "id_interno": "exemplo-vereador-sapl",
+  "nome": "(EXEMPLO — não é uma pessoa real) Nome do Vereador",
+  "status": "sem_dados_coletados",
+  "mensagem": "Rode o script de coleta correspondente (fetch-camara.js, fetch-senado.js, fetch-sapl.js ou fetch-tse-propostas.js) antes de gerar comparações para este político."
+}

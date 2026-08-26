@@ -1,0 +1,29 @@
+{
+  "id_interno": "andre-fernandes-ce",
+  "nome": "André Fernandes",
+  "cargo": "Deputado Federal",
+  "status": "ok",
+  "total_promessas": 0,
+  "total_proposicoes_autoria": 618,
+  "temas": {
+    "convergente": [],
+    "sem_atuacao_encontrada": [],
+    "atuacao_fora_das_promessas": [
+      "seguranca",
+      "economia",
+      "saude",
+      "administracao_publica",
+      "trabalho_previdencia",
+      "educacao",
+      "tecnologia",
+      "direitos_humanos",
+      "infraestrutura",
+      "meio_ambiente"
+    ]
+  },
+  "resumo_votos": {
+    "total_votos_registrados": 849
+  },
+  "metodologia_versao": "1.0-cruzamento-por-tema",
+  "gerado_em": "2026-08-26T20:03:05.102Z"
+}

@@ -1,0 +1,100 @@
+@import "tailwindcss";
+
+/*
+  Tema visual: "Dossiê" — a estética de processo administrativo brasileiro (pasta manila,
+  ficha de papel, carimbo de tinta). A ideia é que cada político tenha um "dossiê" folheável,
+  e que o veredito de convergência/divergência apareça como um carimbo de tinta, não como
+  um badge genérico de dashboard. Ver README/frontend brief para a justificativa completa.
+*/
+@theme {
+  --color-paper: #ece1c2;
+  --color-paper-dark: #ddcb9e;
+  --color-card: #faf6ea;
+  --color-ink: #2a2115;
+  --color-ink-soft: #5b4f3d;
+  --color-stamp-green: #2f6f4f;
+  --color-stamp-red: #a1372f;
+  --color-stamp-blue: #33507a;
+  --color-brass: #a9812c;
+
+  --font-display: "Roboto Slab", "Georgia", serif;
+  --font-body: "Public Sans", "Segoe UI", sans-serif;
+  --font-data: "IBM Plex Mono", "Courier New", monospace;
+}
+
+@layer base {
+  body {
+    background-color: var(--color-paper);
+    background-image:
+      radial-gradient(circle at 1px 1px, rgba(42, 33, 21, 0.06) 1px, transparent 0);
+    background-size: 22px 22px;
+    color: var(--color-ink);
+    font-family: var(--font-body);
+  }
+
+  h1, h2, h3, h4, .font-display {
+    font-family: var(--font-display);
+  }
+
+  code, .font-data, .font-mono-dado {
+    font-family: var(--font-data);
+  }
+}
+
+@layer components {
+  /* Cartão em formato de ficha/pasta, com uma "aba" de pasta no topo esquerdo */
+  .cartao-dossie {
+    background-color: var(--color-card);
+    border: 1px solid rgba(42, 33, 21, 0.15);
+    box-shadow: 0 6px 0 -3px rgba(42, 33, 21, 0.08), 0 10px 20px -8px rgba(42, 33, 21, 0.25);
+    position: relative;
+  }
+
+  .cartao-dossie::before {
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: 20px;
+    width: 64px;
+    height: 14px;
+    background-color: var(--color-paper-dark);
+    border: 1px solid rgba(42, 33, 21, 0.15);
+    border-bottom: none;
+    border-radius: 3px 3px 0 0;
+  }
+
+  /* Carimbo de tinta usado no veredito de convergência/divergência */
+  .carimbo {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px double currentColor;
+    border-radius: 6px;
+    padding: 0.35rem 0.75rem;
+    font-family: var(--font-display);
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    transform: rotate(-4deg);
+    opacity: 0.9;
+    mix-blend-mode: multiply;
+  }
+
+  .carimbo-verde { color: var(--color-stamp-green); }
+  .carimbo-vermelho { color: var(--color-stamp-red); }
+  .carimbo-azul { color: var(--color-stamp-blue); }
+
+  /* Aba de navegação estilo "guia de pasta suspensa" */
+  .aba-pasta {
+    border: 1px solid rgba(42, 33, 21, 0.2);
+    border-bottom: none;
+    border-radius: 8px 8px 0 0;
+    background-color: var(--color-paper-dark);
+  }
+
+  .aba-pasta[data-ativa="true"] {
+    background-color: var(--color-card);
+    position: relative;
+    top: 1px;
+  }
+}

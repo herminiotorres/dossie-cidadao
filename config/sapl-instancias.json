@@ -1,0 +1,11 @@
+{
+  "_comentario": "O SAPL (Sistema de Apoio ao Processo Legislativo) é um software livre usado por muitas câmaras municipais e algumas assembleias estaduais no Brasil, cada uma rodando sua própria instância com API REST própria em /api/. Nem toda câmara usa SAPL — para as que não usam, este projeto não tem como coletar dados automaticamente sem um scraper específico (não incluído aqui por ser frágil e variar por site). Adicione abaixo apenas instâncias que você confirmou que respondem em /api/.",
+  "como_verificar": "Abra <url-da-camara>/api/ no navegador. Se aparecer uma página do Django REST Framework com listas de 'parlamentar', 'materia', 'sessaoplenaria' etc., a instância é compatível.",
+  "instancias": [
+    {
+      "municipio_uf": "EXEMPLO/UF",
+      "base_url": "https://sapl.EXEMPLO.leg.br",
+      "ativo": false
+    }
+  ]
+}

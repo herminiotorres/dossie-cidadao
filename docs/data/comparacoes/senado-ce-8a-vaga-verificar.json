@@ -1,0 +1,6 @@
+{
+  "id_interno": "senado-ce-8a-vaga-verificar",
+  "nome": "PREENCHER — 8ª candidatura ao Senado pelo CE",
+  "status": "sem_dados_coletados",
+  "mensagem": "Rode o script de coleta correspondente (fetch-camara.js, fetch-senado.js, fetch-sapl.js ou fetch-tse-propostas.js) antes de gerar comparações para este político."
+}

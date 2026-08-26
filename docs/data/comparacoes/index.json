@@ -1,0 +1,557 @@
+[
+  {
+    "id_interno": "nikolas-ferreira",
+    "nome": "Nikolas Ferreira",
+    "cargo": "Deputado Federal",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 1649,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": [
+        "saude",
+        "seguranca",
+        "trabalho_previdencia",
+        "administracao_publica",
+        "economia",
+        "tecnologia",
+        "educacao",
+        "direitos_humanos",
+        "infraestrutura",
+        "meio_ambiente"
+      ]
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 1096
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.099Z"
+  },
+  {
+    "id_interno": "andre-fernandes-ce",
+    "nome": "André Fernandes",
+    "cargo": "Deputado Federal",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 618,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": [
+        "seguranca",
+        "economia",
+        "saude",
+        "administracao_publica",
+        "trabalho_previdencia",
+        "educacao",
+        "tecnologia",
+        "direitos_humanos",
+        "infraestrutura",
+        "meio_ambiente"
+      ]
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 849
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.102Z"
+  },
+  {
+    "id_interno": "danilo-forte-ce",
+    "nome": "Danilo Forte",
+    "cargo": "Deputado Federal",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 549,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": [
+        "saude",
+        "trabalho_previdencia",
+        "economia",
+        "administracao_publica",
+        "educacao",
+        "tecnologia",
+        "seguranca",
+        "infraestrutura",
+        "direitos_humanos",
+        "meio_ambiente"
+      ]
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 810
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.104Z"
+  },
+  {
+    "id_interno": "andre-figueiredo-ce",
+    "nome": "André Figueiredo",
+    "status": "sem_dados_coletados",
+    "mensagem": "Rode o script de coleta correspondente (fetch-camara.js, fetch-senado.js, fetch-sapl.js ou fetch-tse-propostas.js) antes de gerar comparações para este político."
+  },
+  {
+    "id_interno": "domingos-neto-ce",
+    "nome": "Domingos Neto",
+    "status": "sem_dados_coletados",
+    "mensagem": "Rode o script de coleta correspondente (fetch-camara.js, fetch-senado.js, fetch-sapl.js ou fetch-tse-propostas.js) antes de gerar comparações para este político."
+  },
+  {
+    "id_interno": "jose-airton-ce",
+    "nome": "José Airton",
+    "status": "sem_dados_coletados",
+    "mensagem": "Rode o script de coleta correspondente (fetch-camara.js, fetch-senado.js, fetch-sapl.js ou fetch-tse-propostas.js) antes de gerar comparações para este político."
+  },
+  {
+    "id_interno": "mauro-benevides-filho-ce",
+    "nome": "Mauro Benevides Filho",
+    "status": "sem_dados_coletados",
+    "mensagem": "Rode o script de coleta correspondente (fetch-camara.js, fetch-senado.js, fetch-sapl.js ou fetch-tse-propostas.js) antes de gerar comparações para este político."
+  },
+  {
+    "id_interno": "cid-gomes-senado",
+    "nome": "Cid Gomes",
+    "cargo": "Senador",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 272,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 1086
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.116Z"
+  },
+  {
+    "id_interno": "alcides-fernandes-senado-ce",
+    "nome": "Alcides Fernandes",
+    "status": "sem_dados_coletados",
+    "mensagem": "Rode o script de coleta correspondente (fetch-camara.js, fetch-senado.js, fetch-sapl.js ou fetch-tse-propostas.js) antes de gerar comparações para este político."
+  },
+  {
+    "id_interno": "capitao-wagner-senado-ce",
+    "nome": "Capitão Wagner",
+    "status": "sem_dados_coletados",
+    "mensagem": "Rode o script de coleta correspondente (fetch-camara.js, fetch-senado.js, fetch-sapl.js ou fetch-tse-propostas.js) antes de gerar comparações para este político."
+  },
+  {
+    "id_interno": "catarina-matos-senado-ce",
+    "nome": "Catarina Matos",
+    "status": "sem_dados_coletados",
+    "mensagem": "Rode o script de coleta correspondente (fetch-camara.js, fetch-senado.js, fetch-sapl.js ou fetch-tse-propostas.js) antes de gerar comparações para este político."
+  },
+  {
+    "id_interno": "general-theophilo-senado-ce",
+    "nome": "General Theophilo",
+    "status": "sem_dados_coletados",
+    "mensagem": "Rode o script de coleta correspondente (fetch-camara.js, fetch-senado.js, fetch-sapl.js ou fetch-tse-propostas.js) antes de gerar comparações para este político."
+  },
+  {
+    "id_interno": "luizianne-lins-senado-ce",
+    "nome": "Luizianne Lins",
+    "status": "sem_dados_coletados",
+    "mensagem": "Rode o script de coleta correspondente (fetch-camara.js, fetch-senado.js, fetch-sapl.js ou fetch-tse-propostas.js) antes de gerar comparações para este político."
+  },
+  {
+    "id_interno": "reginaldo-ferreira-senado-ce",
+    "nome": "Reginaldo Ferreira",
+    "status": "sem_dados_coletados",
+    "mensagem": "Rode o script de coleta correspondente (fetch-camara.js, fetch-senado.js, fetch-sapl.js ou fetch-tse-propostas.js) antes de gerar comparações para este político."
+  },
+  {
+    "id_interno": "senado-ce-8a-vaga-verificar",
+    "nome": "PREENCHER — 8ª candidatura ao Senado pelo CE",
+    "status": "sem_dados_coletados",
+    "mensagem": "Rode o script de coleta correspondente (fetch-camara.js, fetch-senado.js, fetch-sapl.js ou fetch-tse-propostas.js) antes de gerar comparações para este político."
+  },
+  {
+    "id_interno": "elmano-de-freitas-governador-ce",
+    "nome": "Elmano de Freitas",
+    "cargo": "Governador",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.117Z"
+  },
+  {
+    "id_interno": "ciro-gomes-governador-ce",
+    "nome": "Ciro Gomes",
+    "cargo": "Governador",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.117Z"
+  },
+  {
+    "id_interno": "danilo-soares-governador-ce",
+    "nome": "Danilo Soares",
+    "cargo": "Governador (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.117Z"
+  },
+  {
+    "id_interno": "delegado-hugo-governador-ce",
+    "nome": "Delegado Hugo",
+    "cargo": "Governador (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.118Z"
+  },
+  {
+    "id_interno": "ieri-braga-governador-ce",
+    "nome": "Ieri Braga",
+    "cargo": "Governador (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.118Z"
+  },
+  {
+    "id_interno": "serley-leal-governador-ce",
+    "nome": "Serley Leal",
+    "cargo": "Governador (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.118Z"
+  },
+  {
+    "id_interno": "vera-lucia-governador-ce",
+    "nome": "Vera Lúcia",
+    "cargo": "Governador (candidata)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.118Z"
+  },
+  {
+    "id_interno": "ze-batista-governador-ce",
+    "nome": "Zé Batista",
+    "cargo": "Governador (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.118Z"
+  },
+  {
+    "id_interno": "lula-presidente",
+    "nome": "Luiz Inácio Lula da Silva",
+    "cargo": "Presidente",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.118Z"
+  },
+  {
+    "id_interno": "flavio-bolsonaro-presidente",
+    "nome": "Flávio Bolsonaro",
+    "cargo": "Presidente (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.119Z"
+  },
+  {
+    "id_interno": "pablo-marcal-presidente",
+    "nome": "Pablo Marçal",
+    "cargo": "Presidente (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.119Z"
+  },
+  {
+    "id_interno": "ronaldo-caiado-presidente",
+    "nome": "Ronaldo Caiado",
+    "cargo": "Presidente (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.119Z"
+  },
+  {
+    "id_interno": "romeu-zema-presidente",
+    "nome": "Romeu Zema",
+    "cargo": "Presidente (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.119Z"
+  },
+  {
+    "id_interno": "augusto-cury-presidente",
+    "nome": "Augusto Cury",
+    "cargo": "Presidente (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.119Z"
+  },
+  {
+    "id_interno": "cabo-daciolo-presidente",
+    "nome": "Cabo Daciolo",
+    "cargo": "Presidente (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.119Z"
+  },
+  {
+    "id_interno": "rui-costa-pimenta-presidente",
+    "nome": "Rui Costa Pimenta",
+    "cargo": "Presidente (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.119Z"
+  },
+  {
+    "id_interno": "renan-santos-presidente",
+    "nome": "Renan Santos",
+    "cargo": "Presidente (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.120Z"
+  },
+  {
+    "id_interno": "samara-martins-presidente",
+    "nome": "Samara Martins",
+    "cargo": "Presidente (candidata)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.120Z"
+  },
+  {
+    "id_interno": "hertz-dias-presidente",
+    "nome": "Hertz Dias",
+    "cargo": "Presidente (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.120Z"
+  },
+  {
+    "id_interno": "edmilson-costa-presidente",
+    "nome": "Edmilson Costa",
+    "cargo": "Presidente (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.120Z"
+  },
+  {
+    "id_interno": "atila-maia-presidente",
+    "nome": "Átila Maia",
+    "cargo": "Presidente (candidato)",
+    "status": "ok",
+    "total_promessas": 0,
+    "total_proposicoes_autoria": 0,
+    "temas": {
+      "convergente": [],
+      "sem_atuacao_encontrada": [],
+      "atuacao_fora_das_promessas": []
+    },
+    "resumo_votos": {
+      "total_votos_registrados": 0
+    },
+    "metodologia_versao": "1.0-cruzamento-por-tema",
+    "gerado_em": "2026-08-26T20:03:05.120Z"
+  },
+  {
+    "id_interno": "exemplo-vereador-sapl",
+    "nome": "(EXEMPLO — não é uma pessoa real) Nome do Vereador",
+    "status": "sem_dados_coletados",
+    "mensagem": "Rode o script de coleta correspondente (fetch-camara.js, fetch-senado.js, fetch-sapl.js ou fetch-tse-propostas.js) antes de gerar comparações para este político."
+  }
+]

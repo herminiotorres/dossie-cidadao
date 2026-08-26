@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Metodologia — Dossiê Cidadão</title>
+
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500;700&family=Public+Sans:wght@400;500;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet" />
+
+<style type="text/tailwindcss">
+  @theme {
+    --color-paper: #ece1c2; --color-card: #faf6ea; --color-ink: #2a2115; --color-ink-soft: #5b4f3d;
+    --color-brass: #a9812c;
+    --font-display: "Roboto Slab", Georgia, serif;
+    --font-body: "Public Sans", "Segoe UI", sans-serif;
+    --font-data: "IBM Plex Mono", "Courier New", monospace;
+  }
+  body { background-color: var(--color-paper); color: var(--color-ink); font-family: var(--font-body); }
+  h1, h2, .font-display { font-family: var(--font-display); }
+  .cartao-dossie { background-color: var(--color-card); border: 1px solid rgba(42,33,21,0.15); box-shadow: 0 10px 20px -8px rgba(42,33,21,0.25); }
+  .prosa p, .prosa li { line-height: 1.7; }
+  .prosa h2 { margin-top: 1.75rem; margin-bottom: 0.5rem; font-size: 1.25rem; font-weight: 700; }
+  .prosa ul { list-style: disc; padding-left: 1.25rem; margin: 0.5rem 0; }
+</style>
+</head>
+<body class="min-h-screen">
+
+  <header class="border-b-4 border-double border-[var(--color-ink)]/30 bg-[var(--color-card)]/60">
+    <div class="max-w-3xl mx-auto px-6 py-6">
+      <a href="index.html" class="font-display font-bold text-lg hover:text-[var(--color-brass)]">← Dossiê Cidadão</a>
+    </div>
+  </header>
+
+  <main class="max-w-3xl mx-auto px-6 py-10">
+    <div class="cartao-dossie rounded-lg p-8 prosa">
+      <h1 class="font-display text-3xl font-bold mb-4">Como esta comparação é feita</h1>
+
+      <p>
+        Este site cruza duas coisas: <strong>promessas de campanha</strong> (cadastradas manualmente,
+        a partir de material público de campanha, planos de governo registrados no TSE e entrevistas)
+        e <strong>atuação legislativa real</strong> (coletada automaticamente das APIs de dados abertos
+        da Câmara dos Deputados, do Senado Federal e, quando disponível, de assembleias e câmaras
+        municipais que usam o sistema livre SAPL).
+      </p>
+
+      <h2>Por que por "tema", e não por texto exato?</h2>
+      <p>
+        Cada promessa e cada proposição são classificadas por palavras-chave em temas amplos (Saúde,
+        Educação, Segurança Pública etc — veja a lista completa em
+        <code>config/temas.json</code> no repositório). O cruzamento verifica se o político legislou
+        em áreas que prometeu atuar, tema a tema.
+      </p>
+      <p>
+        Isso é uma escolha deliberada: fazer um sistema afirmar automaticamente que
+        "a promessa X foi cumprida pelo projeto de lei Y" exigiria interpretação de linguagem que
+        erra com frequência — e, como isso envolve a reputação de pessoas reais, preferimos uma régua
+        mais simples, porém totalmente auditável. Qualquer pessoa pode abrir
+        <code>config/temas.json</code> e ver exatamente por que algo foi classificado de um jeito.
+      </p>
+
+      <h2>O que os "carimbos" significam</h2>
+      <ul>
+        <li><strong>Majoritariamente convergente</strong>: a maior parte dos temas prometidos teve proposições de autoria correspondentes.</li>
+        <li><strong>Parcialmente convergente</strong>: parte dos temas prometidos teve atuação encontrada, parte não.</li>
+        <li><strong>Pouca atuação encontrada</strong>: a maioria dos temas prometidos não teve proposições de autoria correspondentes nos dados coletados.</li>
+      </ul>
+      <p>
+        <strong>Isso não é uma nota de honestidade ou um veredito moral.</strong> Um político pode
+        ter atuado por outros meios não capturados aqui (emendas, discursos, articulação em bastidores,
+        cargos no Executivo) ou pode ter sido voto vencido em pauta que não dependia dele. O carimbo é
+        um resumo visual de um cruzamento simples de dados — use-o como ponto de partida, não como
+        conclusão.
+      </p>
+
+      <h2>Limitações importantes</h2>
+      <ul>
+        <li><strong>Cobertura desigual:</strong> Câmara e Senado têm APIs oficiais completas. Câmaras
+          municipais e assembleias estaduais só são cobertas quando usam o sistema SAPL e foram
+          cadastradas manualmente — a maioria dos ~5.570 municípios brasileiros não está e não estará
+          coberta automaticamente.</li>
+        <li><strong>Executivos (prefeitos, governadores, presidente) não votam projetos de lei</strong>
+          como parlamentares. A comparação para esse grupo é necessariamente mais limitada e depende
+          de curadoria manual de decretos e atos de governo.</li>
+        <li><strong>As promessas de campanha são inseridas manualmente</strong> por quem mantém este
+          repositório — a qualidade da comparação depende diretamente da qualidade dessa curadoria.
+          Toda promessa listada traz um link de fonte; verifique a fonte original se tiver dúvida.</li>
+        <li><strong>"Proposição de autoria" não é o mesmo que "proposição aprovada"</strong>: apresentar
+          um projeto de lei não significa que ele virou lei. A situação de tramitação, quando disponível,
+          é mostrada no dossiê de cada político.</li>
+      </ul>
+
+      <h2>Dados abertos, código aberto</h2>
+      <p>
+        Todo o código deste site — inclusive os scripts que baixam os dados — é público e pode ser
+        auditado, corrigido ou ampliado por qualquer pessoa no repositório do GitHub. Erros de
+        classificação ou de dados podem e devem ser reportados/corrigidos via Issues ou Pull Requests.
+      </p>
+    </div>
+  </main>
+</body>
+</html>

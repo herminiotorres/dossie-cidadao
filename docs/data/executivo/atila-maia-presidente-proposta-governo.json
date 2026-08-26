@@ -1,0 +1,12 @@
+{
+  "id_interno": "atila-maia-presidente",
+  "nome": "Átila Maia",
+  "cargo": "Presidente (candidato)",
+  "uf_consultada": "BR",
+  "correspondencia": {
+    "confianca": "nao_encontrado",
+    "metodo": null
+  },
+  "instrucao": "Verifique manualmente antes de exibir este vínculo como certo — consulte o manifesto em docs/data/tse/propostas-governo/ para conferir os arquivos disponíveis dessa UF.",
+  "atualizado_em": "2026-08-26T20:02:51.745Z"
+}
