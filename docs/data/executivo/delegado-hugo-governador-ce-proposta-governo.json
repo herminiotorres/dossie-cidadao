@@ -4,9 +4,9 @@
   "cargo": "Governador (candidato)",
   "uf_consultada": "CE",
   "correspondencia": {
-    "confianca": "nao_encontrado",
-    "metodo": null
+    "confianca": "erro",
+    "metodo": "não foi possível baixar/processar o pacote da UF CE"
   },
   "instrucao": "Verifique manualmente antes de exibir este vínculo como certo — consulte o manifesto em docs/data/tse/propostas-governo/ para conferir os arquivos disponíveis dessa UF.",
-  "atualizado_em": "2026-08-26T20:02:51.730Z"
+  "atualizado_em": "2026-08-27T17:27:53.841Z"
 }

@@ -4,11 +4,9 @@
   "cargo": "Presidente (candidato)",
   "uf_consultada": "BR",
   "correspondencia": {
-    "confianca": "alta",
-    "metodo": "SQ_CANDIDATO 280002539826 (de docs/data/tse/candidatos/BR/presidente.json) encontrado no nome do arquivo",
-    "arquivo": "2026BR280002539826_01.pdf",
-    "sq_candidato": "280002539826"
+    "confianca": "erro",
+    "metodo": "não foi possível baixar/processar o pacote da UF BR"
   },
-  "instrucao": "Correspondência automática de alta confiança (via SQ_CANDIDATO oficial).",
-  "atualizado_em": "2026-08-26T20:02:51.743Z"
+  "instrucao": "Verifique manualmente antes de exibir este vínculo como certo — consulte o manifesto em docs/data/tse/propostas-governo/ para conferir os arquivos disponíveis dessa UF.",
+  "atualizado_em": "2026-08-27T17:27:53.843Z"
 }

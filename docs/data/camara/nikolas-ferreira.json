@@ -56,6 +56,26 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2644646,
+      "siglaTipo": "RDF",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Redação Final ao PDL 1194/2025",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644646",
+      "temas": []
+    },
+    {
+      "id": 2644634,
+      "siglaTipo": "RDF",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Redação Final ao PDL 1074/2025",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2644634",
+      "temas": []
+    },
+    {
       "id": 2644242,
       "siglaTipo": "RIC",
       "numero": 2469,
@@ -22938,5 +22958,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-08-26T19:36:17.701Z"
+  "atualizado_em": "2026-08-27T17:27:48.421Z"
 }
