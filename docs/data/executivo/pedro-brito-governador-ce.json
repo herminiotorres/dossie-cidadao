@@ -1,10 +1,10 @@
 {
-  "id_interno": "lula-presidente",
-  "nome": "Luiz Inácio Lula da Silva",
-  "cargo": "Presidente",
+  "id_interno": "pedro-brito-governador-ce",
+  "nome": "Pedro Brito",
+  "cargo": "Governador (candidato)",
   "dados_tse": null,
   "observacao": "Dados do TSE não coletados automaticamente (falta id_candidato_tse ou pacote não localizado). Preencha 'promessas_campanha' manualmente em config/politicos.json.",
   "promessas_campanha": [],
   "atos_executivos": [],
-  "atualizado_em": "2026-08-31T13:49:53.990Z"
+  "atualizado_em": "2026-08-31T13:49:53.988Z"
 }

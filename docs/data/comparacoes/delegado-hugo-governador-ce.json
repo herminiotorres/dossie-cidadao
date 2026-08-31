@@ -1,6 +1,6 @@
 {
   "id_interno": "delegado-hugo-governador-ce",
-  "nome": "Delegado Hugo",
+  "nome": "Delegado Huggo",
   "cargo": "Governador (candidato)",
   "status": "ok",
   "total_promessas": 0,
@@ -14,5 +14,5 @@
     "total_votos_registrados": 0
   },
   "metodologia_versao": "1.0-cruzamento-por-tema",
-  "gerado_em": "2026-08-31T13:05:09.935Z"
+  "gerado_em": "2026-08-31T13:49:54.979Z"
 }

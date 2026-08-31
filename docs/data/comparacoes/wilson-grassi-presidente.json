@@ -1,7 +1,7 @@
 {
-  "id_interno": "vera-lucia-governador-ce",
-  "nome": "Vera Lúcia",
-  "cargo": "Governador (candidata)",
+  "id_interno": "wilson-grassi-presidente",
+  "nome": "Wilson Grassi",
+  "cargo": "Presidente (candidato)",
   "status": "ok",
   "total_promessas": 0,
   "total_proposicoes_autoria": 0,
@@ -14,5 +14,5 @@
     "total_votos_registrados": 0
   },
   "metodologia_versao": "1.0-cruzamento-por-tema",
-  "gerado_em": "2026-08-31T13:49:54.979Z"
+  "gerado_em": "2026-08-31T13:49:54.980Z"
 }

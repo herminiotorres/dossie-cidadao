@@ -1,10 +1,10 @@
 {
   "id_interno": "delegado-hugo-governador-ce",
-  "nome": "Delegado Hugo",
+  "nome": "Delegado Huggo",
   "cargo": "Governador (candidato)",
   "dados_tse": null,
   "observacao": "Dados do TSE não coletados automaticamente (falta id_candidato_tse ou pacote não localizado). Preencha 'promessas_campanha' manualmente em config/politicos.json.",
   "promessas_campanha": [],
   "atos_executivos": [],
-  "atualizado_em": "2026-08-31T13:05:08.790Z"
+  "atualizado_em": "2026-08-31T13:49:53.989Z"
 }
