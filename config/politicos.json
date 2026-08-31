@@ -212,18 +212,31 @@
       "cargo": "Governador (candidato)",
       "casa": "executivo",
       "uf": "CE",
-      "partido": "Democracia Cristã (DC)",
+      "partido": "Democrata",
       "id_candidato_tse": null,
+      "observacao": "Partido corrigido para 'Democrata' (confirmado via docs/data/tse/candidatos/CE/governador.json) — não é o mesmo partido que Democracia Cristã (DC).",
+      "promessas_campanha": []
+    },
+    {
+      "id_interno": "pedro-brito-governador-ce",
+      "nome": "Pedro Brito",
+      "cargo": "Governador (candidato)",
+      "casa": "executivo",
+      "uf": "CE",
+      "partido": "Novo",
+      "id_candidato_tse": null,
+      "observacao": "9º candidato ao governo do CE, confirmado em docs/data/tse/candidatos/CE/governador.json — não constava nas reportagens usadas para o levantamento inicial.",
       "promessas_campanha": []
     },
     {
       "id_interno": "delegado-hugo-governador-ce",
-      "nome": "Delegado Hugo",
+      "nome": "Delegado Huggo",
       "cargo": "Governador (candidato)",
       "casa": "executivo",
       "uf": "CE",
       "partido": "Missão",
       "id_candidato_tse": null,
+      "observacao": "Nome de urna oficial no TSE é 'Delegado Huggo' (com dois 'g') — grafia diferente da usada em algumas reportagens.",
       "promessas_campanha": []
     },
     {
@@ -296,9 +309,9 @@
       "cargo": "Presidente (candidato)",
       "casa": "executivo",
       "uf": "BR",
-      "partido": "verificar",
+      "partido": "PRTB",
       "id_candidato_tse": null,
-      "observacao": "Fontes indicam que ele se registrou como candidato apesar de decisão do TRE-SP sobre inelegibilidade — situação pode mudar por decisão judicial. Confirme status em docs/data/tse/candidatos/BR/presidente.json antes de publicar.",
+      "observacao": "Partido confirmado via docs/data/tse/candidatos/BR/presidente.json (PRTB). Fontes de agosto/2026 mencionavam dúvida sobre a situação da candidatura por decisão de inelegibilidade do TRE-SP — confira DS_SITUACAO_CANDIDATURA no arquivo local para o status mais atual antes de publicar.",
       "promessas_campanha": []
     },
     {
@@ -307,8 +320,9 @@
       "cargo": "Presidente (candidato)",
       "casa": "executivo",
       "uf": "BR",
-      "partido": "verificar",
+      "partido": "PSD",
       "id_candidato_tse": null,
+      "observacao": "Partido confirmado via docs/data/tse/candidatos/BR/presidente.json.",
       "promessas_campanha": []
     },
     {
@@ -339,6 +353,7 @@
       "uf": "BR",
       "partido": "Mobiliza",
       "id_candidato_tse": null,
+      "observacao": "ATENÇÃO: não aparece em docs/data/tse/candidatos/BR/presidente.json (13 candidatos confirmados em 26/08/2026). A pré-candidatura foi noticiada em janeiro/2026, mas ele não consta entre os registrados até o fim do prazo (15/08/2026) — provavelmente não protocolou candidatura. Mantido aqui só para registro; considere remover ou marcar como 'não concorreu'.",
       "promessas_campanha": []
     },
     {
@@ -392,13 +407,14 @@
       "promessas_campanha": []
     },
     {
-      "id_interno": "atila-maia-presidente",
-      "nome": "Átila Maia",
+      "id_interno": "wilson-grassi-presidente",
+      "nome": "Wilson Grassi",
       "cargo": "Presidente (candidato)",
       "casa": "executivo",
       "uf": "BR",
-      "partido": "Democrata (ex-PMB)",
+      "partido": "Democrata",
       "id_candidato_tse": null,
+      "observacao": "Nome de urna oficial: 'Veterinário Wilson Grassi' (confirmado em docs/data/tse/candidatos/BR/presidente.json). Substitui 'Átila Maia', nome usado em reportagem de maio/2026 sobre a pré-candidatura do Democrata — o partido trocou de candidato até o registro final em 15/08/2026.",
       "promessas_campanha": []
     },
 
