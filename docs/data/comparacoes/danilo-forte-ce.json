@@ -4,15 +4,26 @@
   "cargo": "Deputado Federal",
   "status": "ok",
   "total_promessas": 0,
-  "total_proposicoes_autoria": 0,
+  "total_proposicoes_autoria": 552,
   "temas": {
     "convergente": [],
     "sem_atuacao_encontrada": [],
-    "atuacao_fora_das_promessas": []
+    "atuacao_fora_das_promessas": [
+      "saude",
+      "trabalho_previdencia",
+      "economia",
+      "administracao_publica",
+      "educacao",
+      "tecnologia",
+      "seguranca",
+      "infraestrutura",
+      "direitos_humanos",
+      "meio_ambiente"
+    ]
   },
   "resumo_votos": {
-    "total_votos_registrados": 0
+    "total_votos_registrados": 810
   },
   "metodologia_versao": "1.0-cruzamento-por-tema",
-  "gerado_em": "2026-08-31T13:49:54.953Z"
+  "gerado_em": "2026-09-01T11:22:01.845Z"
 }
