@@ -56,6 +56,16 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2645583,
+      "siglaTipo": "REQ",
+      "numero": 4176,
+      "ano": 2026,
+      "ementa": "Solicita revisão do despacho do PL 747/2025 para incluir a análise de mérito da Comissão de Constituição, Justiça e de Cidadania.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2645583",
+      "temas": []
+    },
+    {
       "id": 2644774,
       "siglaTipo": "RDF",
       "numero": 1,
@@ -18113,6 +18123,11 @@
       "data": "2026-07-14T18:37:54"
     },
     {
+      "idVotacao": "2645346-18",
+      "voto": "",
+      "data": "2026-09-02T11:42:54"
+    },
+    {
       "idVotacao": "589982-103",
       "voto": "Sim",
       "data": "2026-03-02T21:40:40"
@@ -22968,5 +22983,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-09-02T10:54:20.737Z"
+  "atualizado_em": "2026-09-03T10:53:53.226Z"
 }
