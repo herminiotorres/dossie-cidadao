@@ -1,7 +1,7 @@
 {
   "uf": "CE",
   "fonte": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_CE.zip",
-  "total_arquivos": 10,
+  "total_arquivos": 11,
   "arquivos": [
     {
       "nome": "2026CE60002531351_01.pdf",
@@ -38,6 +38,10 @@
     {
       "nome": "2026CE60002552498_01.pdf",
       "tamanho_kb": 293
+    },
+    {
+      "nome": "2026CE60002553922_01.pdf",
+      "tamanho_kb": 844
     },
     {
       "nome": "leiame.pdf",

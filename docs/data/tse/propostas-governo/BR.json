@@ -1,7 +1,7 @@
 {
   "uf": "BR",
   "fonte": "https://cdn.tse.jus.br/estatistica/sead/odsele/proposta_governo/proposta_governo_2026_BR.zip",
-  "total_arquivos": 14,
+  "total_arquivos": 15,
   "arquivos": [
     {
       "nome": "2026BR280002538811_01.pdf",
@@ -54,6 +54,10 @@
     {
       "nome": "2026BR280002553884_01.pdf",
       "tamanho_kb": 1869
+    },
+    {
+      "nome": "2026BR280002554479_01.pdf",
+      "tamanho_kb": 299
     },
     {
       "nome": "leiame.pdf",
