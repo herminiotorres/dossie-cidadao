@@ -56,6 +56,36 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2646919,
+      "siglaTipo": "PRL",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Nikolas Ferreira (PL-MG), pela constitucionalidade, juridicidade e técnica legislativa.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646919",
+      "temas": []
+    },
+    {
+      "id": 2646918,
+      "siglaTipo": "PRL",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Nikolas Ferreira (PL-MG), pela constitucionalidade, juridicidade e técnica legislativa.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646918",
+      "temas": []
+    },
+    {
+      "id": 2646917,
+      "siglaTipo": "PRL",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Parecer do Relator, Dep. Nikolas Ferreira (PL-MG), pela constitucionalidade, juridicidade e técnica legislativa.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646917",
+      "temas": []
+    },
+    {
       "id": 2645846,
       "siglaTipo": "EMC",
       "numero": 111,
@@ -22998,5 +23028,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-09-22T11:12:12.708Z"
+  "atualizado_em": "2026-09-23T11:03:30.615Z"
 }
