@@ -56,6 +56,16 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2646944,
+      "siglaTipo": "RIC",
+      "numero": 2680,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministro de Estado da Secretaria de Comunicação Social da Presidência da República acerca da estimativa de público divulgada para o Desfile Cívico-Militar de 7 de Setembro de 2026, em Brasília.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2646944",
+      "temas": []
+    },
+    {
       "id": 2646919,
       "siglaTipo": "PRL",
       "numero": 1,
@@ -23028,5 +23038,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-09-23T11:03:30.615Z"
+  "atualizado_em": "2026-09-24T11:21:47.178Z"
 }

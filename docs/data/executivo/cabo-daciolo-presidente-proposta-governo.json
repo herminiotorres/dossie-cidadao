@@ -4,9 +4,9 @@
   "cargo": "Presidente (candidato)",
   "uf_consultada": "BR",
   "correspondencia": {
-    "confianca": "erro",
-    "metodo": "não foi possível baixar/processar o pacote da UF BR"
+    "confianca": "nao_encontrado",
+    "metodo": null
   },
   "instrucao": "Verifique manualmente antes de exibir este vínculo como certo — consulte o manifesto em docs/data/tse/propostas-governo/ para conferir os arquivos disponíveis dessa UF.",
-  "atualizado_em": "2026-09-23T11:03:35.795Z"
+  "atualizado_em": "2026-09-24T11:21:52.855Z"
 }
