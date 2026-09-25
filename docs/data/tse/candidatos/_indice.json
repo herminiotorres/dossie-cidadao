@@ -1,37 +1,187 @@
 {
   "ano_eleicao": 2026,
-  "gerado_em": "2026-09-24T11:21:51.899Z",
+  "gerado_em": "2026-09-25T11:27:07.977Z",
   "fonte": "https://cdn.tse.jus.br/estatistica/sead/odsele/consulta_cand/consulta_cand_2026.zip",
   "aviso": "Contém candidaturas registradas, não eleitos — resultado só sai após a apuração de outubro/2026.",
   "ufs": {
-    "MG": {
-      "senador": {
-        "nome": "SENADOR",
-        "total": 18
+    "RS": {
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 458
       },
       "deputado-estadual": {
         "nome": "DEPUTADO ESTADUAL",
-        "total": 998
+        "total": 542
       },
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 756
+      "senador": {
+        "nome": "SENADOR",
+        "total": 13
       },
       "2-suplente": {
         "nome": "2º SUPLENTE",
-        "total": 19
+        "total": 13
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 13
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 7
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 7
+      }
+    },
+    "GO": {
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 265
+      },
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 594
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 12
+      },
+      "senador": {
+        "nome": "SENADOR",
+        "total": 11
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 11
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 6
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 6
+      }
+    },
+    "MT": {
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 7
+      },
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 138
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 8
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 12
+      },
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 268
+      },
+      "senador": {
+        "nome": "SENADOR",
+        "total": 10
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 12
+      }
+    },
+    "DF": {
+      "senador": {
+        "nome": "SENADOR",
+        "total": 13
+      },
+      "deputado-distrital": {
+        "nome": "DEPUTADO DISTRITAL",
+        "total": 433
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 13
+      },
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 172
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 15
       },
       "vice-governador": {
         "nome": "VICE-GOVERNADOR",
         "total": 11
       },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 11
+      }
+    },
+    "AM": {
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 139
+      },
+      "senador": {
+        "nome": "SENADOR",
+        "total": 9
+      },
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 294
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 7
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 9
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 10
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 7
+      }
+    },
+    "RJ": {
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 793
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 19
+      },
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 1188
+      },
       "1-suplente": {
         "nome": "1º SUPLENTE",
         "total": 19
       },
+      "senador": {
+        "nome": "SENADOR",
+        "total": 17
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 10
+      },
       "governador": {
         "nome": "GOVERNADOR",
-        "total": 11
+        "total": 9
       }
     },
     "SP": {
@@ -51,200 +201,54 @@
         "nome": "GOVERNADOR",
         "total": 7
       },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 16
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 10
       },
       "1-suplente": {
         "nome": "1º SUPLENTE",
         "total": 18
       },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 10
-      }
-    },
-    "MT": {
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 7
-      },
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 138
-      },
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 268
-      },
       "2-suplente": {
         "nome": "2º SUPLENTE",
-        "total": 12
-      },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 10
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
+        "total": 16
+      }
+    },
+    "MS": {
+      "governador": {
+        "nome": "GOVERNADOR",
         "total": 8
       },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 12
-      }
-    },
-    "DF": {
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 253
+      },
       "senador": {
         "nome": "SENADOR",
-        "total": 13
+        "total": 10
       },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 11
-      },
-      "deputado-distrital": {
-        "nome": "DEPUTADO DISTRITAL",
-        "total": 433
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 10
       },
       "deputado-federal": {
         "nome": "DEPUTADO FEDERAL",
-        "total": 172
+        "total": 124
       },
       "1-suplente": {
         "nome": "1º SUPLENTE",
-        "total": 13
+        "total": 11
       },
       "vice-governador": {
         "nome": "VICE-GOVERNADOR",
-        "total": 11
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 15
-      }
-    },
-    "AM": {
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 139
-      },
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 294
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
         "total": 9
-      },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 9
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 7
-      },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 10
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 7
-      }
-    },
-    "PE": {
-      "senador": {
-        "nome": "SENADOR",
-        "total": 12
-      },
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 392
-      },
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 517
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 8
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 8
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 12
-      },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 12
-      }
-    },
-    "SE": {
-      "senador": {
-        "nome": "SENADOR",
-        "total": 11
-      },
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 141
-      },
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 222
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 6
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 8
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 12
-      },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 11
-      }
-    },
-    "GO": {
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 265
-      },
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 594
-      },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 11
-      },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 12
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 11
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 6
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 6
       }
     },
     "SC": {
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 231
+      },
       "senador": {
         "nome": "SENADOR",
         "total": 13
@@ -253,9 +257,9 @@
         "nome": "DEPUTADO ESTADUAL",
         "total": 414
       },
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 231
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 13
       },
       "vice-governador": {
         "nome": "VICE-GOVERNADOR",
@@ -265,83 +269,83 @@
         "nome": "2º SUPLENTE",
         "total": 13
       },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 13
-      },
       "governador": {
         "nome": "GOVERNADOR",
         "total": 8
       }
     },
-    "RJ": {
+    "MG": {
       "deputado-estadual": {
         "nome": "DEPUTADO ESTADUAL",
-        "total": 1188
+        "total": 998
       },
       "deputado-federal": {
         "nome": "DEPUTADO FEDERAL",
-        "total": 793
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 9
+        "total": 756
       },
       "1-suplente": {
         "nome": "1º SUPLENTE",
         "total": 19
       },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 11
+      },
+      "senador": {
+        "nome": "SENADOR",
+        "total": 18
+      },
       "2-suplente": {
         "nome": "2º SUPLENTE",
         "total": 19
       },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 17
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 10
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 11
       }
     },
-    "AP": {
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 194
-      },
+    "MA": {
       "deputado-federal": {
         "nome": "DEPUTADO FEDERAL",
-        "total": 91
+        "total": 282
       },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 9
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 285
       },
-      "senador": {
-        "nome": "SENADOR",
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
         "total": 9
       },
       "governador": {
         "nome": "GOVERNADOR",
-        "total": 5
+        "total": 8
       },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 5
+      "senador": {
+        "nome": "SENADOR",
+        "total": 11
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 12
       },
       "2-suplente": {
         "nome": "2º SUPLENTE",
-        "total": 9
+        "total": 12
       }
     },
     "RO": {
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 260
+      },
       "2-suplente": {
         "nome": "2º SUPLENTE",
         "total": 11
       },
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 260
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 11
       },
       "deputado-federal": {
         "nome": "DEPUTADO FEDERAL",
@@ -358,380 +362,6 @@
       "senador": {
         "nome": "SENADOR",
         "total": 10
-      },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 11
-      }
-    },
-    "RS": {
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 458
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 7
-      },
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 542
-      },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 13
-      },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 13
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 13
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 7
-      }
-    },
-    "RN": {
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 10
-      },
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 154
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 10
-      },
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 111
-      },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 14
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 16
-      },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 15
-      }
-    },
-    "BR": {
-      "presidente": {
-        "nome": "PRESIDENTE",
-        "total": 14
-      },
-      "vice-presidente": {
-        "nome": "VICE-PRESIDENTE",
-        "total": 14
-      }
-    },
-    "AL": {
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 118
-      },
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 144
-      },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 11
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 4
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 11
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 4
-      },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 7
-      }
-    },
-    "PR": {
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 428
-      },
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 617
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 10
-      },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 9
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 8
-      },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 10
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 8
-      }
-    },
-    "PB": {
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 12
-      },
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 190
-      },
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 213
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 13
-      },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 10
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 6
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 6
-      }
-    },
-    "PA": {
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 13
-      },
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 268
-      },
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 417
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 14
-      },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 13
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 8
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 8
-      }
-    },
-    "RR": {
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 108
-      },
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 250
-      },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 13
-      },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 15
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 6
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 16
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 5
-      }
-    },
-    "BA": {
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 643
-      },
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 535
-      },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 10
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 11
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 7
-      },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 11
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 7
-      }
-    },
-    "MS": {
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 253
-      },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 11
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 10
-      },
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 124
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 9
-      },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 10
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 8
-      }
-    },
-    "PI": {
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 153
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 22
-      },
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 164
-      },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 20
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 11
-      },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 21
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 11
-      }
-    },
-    "AC": {
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 102
-      },
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 247
-      },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 9
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 6
-      },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 8
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 10
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 6
-      }
-    },
-    "MA": {
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 282
-      },
-      "deputado-estadual": {
-        "nome": "DEPUTADO ESTADUAL",
-        "total": 285
-      },
-      "1-suplente": {
-        "nome": "1º SUPLENTE",
-        "total": 12
-      },
-      "senador": {
-        "nome": "SENADOR",
-        "total": 11
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 8
-      },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 9
-      },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 12
       }
     },
     "CE": {
@@ -747,21 +377,381 @@
         "nome": "VICE-GOVERNADOR",
         "total": 9
       },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 9
+      "senador": {
+        "nome": "SENADOR",
+        "total": 8
       },
       "2-suplente": {
         "nome": "2º SUPLENTE",
         "total": 8
       },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 9
+      },
       "1-suplente": {
         "nome": "1º SUPLENTE",
         "total": 8
+      }
+    },
+    "PR": {
+      "senador": {
+        "nome": "SENADOR",
+        "total": 9
+      },
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 617
+      },
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 428
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 10
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 10
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 8
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 8
+      }
+    },
+    "AP": {
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 194
+      },
+      "senador": {
+        "nome": "SENADOR",
+        "total": 9
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 9
+      },
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 91
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 5
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 5
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 9
+      }
+    },
+    "RN": {
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 154
+      },
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 111
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 16
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 15
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 10
+      },
+      "senador": {
+        "nome": "SENADOR",
+        "total": 14
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 10
+      }
+    },
+    "PB": {
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 190
+      },
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 213
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 12
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 13
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 6
+      },
+      "senador": {
+        "nome": "SENADOR",
+        "total": 10
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 6
+      }
+    },
+    "PA": {
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 417
+      },
+      "senador": {
+        "nome": "SENADOR",
+        "total": 13
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 13
+      },
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 268
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 8
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 8
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 14
+      }
+    },
+    "AC": {
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 247
+      },
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 102
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 6
       },
       "senador": {
         "nome": "SENADOR",
         "total": 8
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 6
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 10
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 9
+      }
+    },
+    "PI": {
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 164
+      },
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 153
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 22
+      },
+      "senador": {
+        "nome": "SENADOR",
+        "total": 20
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 21
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 11
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 11
+      }
+    },
+    "RR": {
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 108
+      },
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 250
+      },
+      "senador": {
+        "nome": "SENADOR",
+        "total": 13
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 16
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 15
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 5
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 6
+      }
+    },
+    "PE": {
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 517
+      },
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 392
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 12
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 8
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 12
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 8
+      },
+      "senador": {
+        "nome": "SENADOR",
+        "total": 12
+      }
+    },
+    "BA": {
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 643
+      },
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 535
+      },
+      "senador": {
+        "nome": "SENADOR",
+        "total": 10
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 11
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 7
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 11
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 7
+      }
+    },
+    "SE": {
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 222
+      },
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 141
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 6
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 8
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 12
+      },
+      "senador": {
+        "nome": "SENADOR",
+        "total": 11
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 11
+      }
+    },
+    "AL": {
+      "deputado-estadual": {
+        "nome": "DEPUTADO ESTADUAL",
+        "total": 144
+      },
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 118
+      },
+      "senador": {
+        "nome": "SENADOR",
+        "total": 7
+      },
+      "1-suplente": {
+        "nome": "1º SUPLENTE",
+        "total": 11
+      },
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 11
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 4
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 4
       }
     },
     "ES": {
@@ -777,13 +767,13 @@
         "nome": "DEPUTADO FEDERAL",
         "total": 137
       },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 5
-      },
       "1-suplente": {
         "nome": "1º SUPLENTE",
         "total": 12
+      },
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 5
       },
       "2-suplente": {
         "nome": "2º SUPLENTE",
@@ -799,29 +789,39 @@
         "nome": "DEPUTADO ESTADUAL",
         "total": 209
       },
-      "vice-governador": {
-        "nome": "VICE-GOVERNADOR",
-        "total": 8
-      },
-      "governador": {
-        "nome": "GOVERNADOR",
-        "total": 8
+      "2-suplente": {
+        "nome": "2º SUPLENTE",
+        "total": 15
       },
       "senador": {
         "nome": "SENADOR",
         "total": 13
       },
-      "deputado-federal": {
-        "nome": "DEPUTADO FEDERAL",
-        "total": 98
+      "governador": {
+        "nome": "GOVERNADOR",
+        "total": 8
       },
       "1-suplente": {
         "nome": "1º SUPLENTE",
         "total": 17
       },
-      "2-suplente": {
-        "nome": "2º SUPLENTE",
-        "total": 15
+      "deputado-federal": {
+        "nome": "DEPUTADO FEDERAL",
+        "total": 98
+      },
+      "vice-governador": {
+        "nome": "VICE-GOVERNADOR",
+        "total": 8
+      }
+    },
+    "BR": {
+      "presidente": {
+        "nome": "PRESIDENTE",
+        "total": 14
+      },
+      "vice-presidente": {
+        "nome": "VICE-PRESIDENTE",
+        "total": 14
       }
     }
   }
