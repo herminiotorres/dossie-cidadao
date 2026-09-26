@@ -4,56 +4,7 @@
   "cargo": "Deputado Federal",
   "uf": "MG",
   "partido": "PL",
-  "perfil": {
-    "dados": {
-      "id": 209787,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/209787",
-      "nomeCivil": "NIKOLAS FERREIRA DE OLIVEIRA",
-      "ultimoStatus": {
-        "id": 209787,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/209787",
-        "nome": "Nikolas Ferreira",
-        "siglaPartido": "PL",
-        "uriPartido": null,
-        "siglaUf": "MG",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/209787.jpg",
-        "email": null,
-        "data": "2023-02-01",
-        "nomeEleitoral": "Nikolas Ferreira",
-        "gabinete": {
-          "nome": "743",
-          "predio": "4",
-          "sala": "743",
-          "andar": "7",
-          "telefone": "3215-5743",
-          "email": "dep.nikolasferreira@camara.leg.br"
-        },
-        "situacao": "Exercício",
-        "condicaoEleitoral": "Titular",
-        "descricaoStatus": null
-      },
-      "cpf": "11701442680",
-      "sexo": "M",
-      "urlWebsite": null,
-      "redeSocial": [
-        "https://twitter.com/nikolas_dm",
-        "https://www.instagram.com/nikolasferreiradm/",
-        "https://www.youtube.com/@NikolasFerreiraO"
-      ],
-      "dataNascimento": "1996-05-30",
-      "dataFalecimento": null,
-      "ufNascimento": "MG",
-      "municipioNascimento": "Belo Horizonte",
-      "escolaridade": "Superior"
-    },
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/209787"
-      }
-    ]
-  },
+  "perfil": null,
   "proposicoes_autoria": [
     {
       "id": 2646944,
@@ -23038,5 +22989,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-09-25T11:27:02.827Z"
+  "atualizado_em": "2026-09-26T11:02:56.409Z"
 }

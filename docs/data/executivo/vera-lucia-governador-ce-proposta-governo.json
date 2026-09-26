@@ -4,11 +4,9 @@
   "cargo": "Governador (candidata)",
   "uf_consultada": "CE",
   "correspondencia": {
-    "confianca": "alta",
-    "metodo": "SQ_CANDIDATO 60002553922 (de docs/data/tse/candidatos/CE/governador.json) encontrado no nome do arquivo",
-    "arquivo": "2026CE60002553922_01.pdf",
-    "sq_candidato": "60002553922"
+    "confianca": "erro",
+    "metodo": "não foi possível baixar/processar o pacote da UF CE"
   },
-  "instrucao": "Correspondência automática de alta confiança (via SQ_CANDIDATO oficial).",
-  "atualizado_em": "2026-09-25T11:27:08.976Z"
+  "instrucao": "Verifique manualmente antes de exibir este vínculo como certo — consulte o manifesto em docs/data/tse/propostas-governo/ para conferir os arquivos disponíveis dessa UF.",
+  "atualizado_em": "2026-09-26T11:03:01.809Z"
 }
