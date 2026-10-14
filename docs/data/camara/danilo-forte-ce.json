@@ -56,6 +56,16 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2647426,
+      "siglaTipo": "REQ",
+      "numero": 4288,
+      "ano": 2026,
+      "ementa": "Requer\tregime\tde\turgência para apreciação do PL nº 3.716/2026.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647426",
+      "temas": []
+    },
+    {
       "id": 2645912,
       "siglaTipo": "EMP",
       "numero": 2,
@@ -9985,5 +9995,5 @@
       "data": "2023-11-21T22:09:28"
     }
   ],
-  "atualizado_em": "2026-10-13T13:49:34.588Z"
+  "atualizado_em": "2026-10-14T11:27:19.353Z"
 }
