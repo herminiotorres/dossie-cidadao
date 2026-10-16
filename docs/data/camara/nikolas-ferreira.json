@@ -56,6 +56,18 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2647760,
+      "siglaTipo": "INC",
+      "numero": 1625,
+      "ano": 2026,
+      "ementa": "Sugere ao Ministério da Educação providências para a divulgação dos indicadores e das projeções do Plano Nacional de Educação.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647760",
+      "temas": [
+        "educacao"
+      ]
+    },
+    {
       "id": 2646944,
       "siglaTipo": "RIC",
       "numero": 2680,
@@ -23053,5 +23065,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-10-15T11:03:27.358Z"
+  "atualizado_em": "2026-10-16T10:59:23.097Z"
 }
