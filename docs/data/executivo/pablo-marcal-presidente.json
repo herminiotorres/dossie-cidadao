@@ -6,5 +6,5 @@
   "observacao": "Dados do TSE não coletados automaticamente (falta id_candidato_tse ou pacote não localizado). Preencha 'promessas_campanha' manualmente em config/politicos.json.",
   "promessas_campanha": [],
   "atos_executivos": [],
-  "atualizado_em": "2026-10-18T10:36:54.132Z"
+  "atualizado_em": "2026-10-19T12:33:54.380Z"
 }
