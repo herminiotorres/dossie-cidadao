@@ -56,6 +56,30 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2648709,
+      "siglaTipo": "RIC",
+      "numero": 2798,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministério da Saúde acerca da não disponibilização efetiva, no âmbito do SUS, dos medicamentos e procedimentos previstos no Protocolo Clínico e Diretrizes Terapêuticas da Dermatite Atópica para crianças e adolescentes com a doença.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648709",
+      "temas": [
+        "saude"
+      ]
+    },
+    {
+      "id": 2648708,
+      "siglaTipo": "INC",
+      "numero": 1644,
+      "ano": 2026,
+      "ementa": "Sugere ao Ministério da Saúde a adoção de providências administrativas urgentes para efetivar a oferta, no SUS, dos medicamentos e procedimentos previstos no Protocolo Clínico e Diretrizes Terapêuticas da Dermatite Atópica.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648708",
+      "temas": [
+        "saude"
+      ]
+    },
+    {
       "id": 2647760,
       "siglaTipo": "INC",
       "numero": 1625,
@@ -23065,5 +23089,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-10-22T11:24:27.245Z"
+  "atualizado_em": "2026-10-23T11:14:10.659Z"
 }
