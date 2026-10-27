@@ -56,6 +56,53 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2648833,
+      "siglaTipo": "RIC",
+      "numero": 2807,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministério da Previdência Social acerca do envio de mensagens oficiais sobre a utilização do comparecimento eleitoral como prova de vida do INSS, às vésperas das eleições de 2026, e de possível desvio de finalidade na utilização dos canais de comunicação do Governo Federal.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648833",
+      "temas": [
+        "trabalho_previdencia"
+      ]
+    },
+    {
+      "id": 2648832,
+      "siglaTipo": "RIC",
+      "numero": 2806,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministério da Fazenda acerca das medidas de desoneração tributária e subvenção econômica aos combustíveis adotadas em outubro de 2026, seus custos e fundamentos técnicos.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648832",
+      "temas": []
+    },
+    {
+      "id": 2648831,
+      "siglaTipo": "RIC",
+      "numero": 2805,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministério da Fazenda acerca das medidas de perdão de dívidas e concessão de benefícios a microempreendedores individuais (MEIs) anunciadas em outubro de 2026, seus fundamentos técnicos e critérios de implementação.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648831",
+      "temas": [
+        "economia"
+      ]
+    },
+    {
+      "id": 2648830,
+      "siglaTipo": "RIC",
+      "numero": 2804,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministério do Planejamento e Orçamento acerca dos estudos técnicos, impactos orçamentários e critérios de financiamento da proposta de emenda à Constituição destinada à implementação da tarifa zero no transporte público coletivo.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2648830",
+      "temas": [
+        "economia",
+        "infraestrutura"
+      ]
+    },
+    {
       "id": 2648709,
       "siglaTipo": "RIC",
       "numero": 2798,
@@ -23089,5 +23136,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-10-26T12:30:26.635Z"
+  "atualizado_em": "2026-10-27T11:48:47.116Z"
 }
