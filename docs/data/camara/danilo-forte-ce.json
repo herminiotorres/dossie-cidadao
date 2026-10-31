@@ -4,56 +4,7 @@
   "cargo": "Deputado Federal",
   "uf": "CE",
   "partido": "PP",
-  "perfil": {
-    "dados": {
-      "id": 62881,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/62881",
-      "nomeCivil": "FRANCISCO DANILO BASTOS FORTE",
-      "ultimoStatus": {
-        "id": 62881,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/62881",
-        "nome": "Danilo Forte",
-        "siglaPartido": "PP",
-        "uriPartido": null,
-        "siglaUf": "CE",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/62881.jpg",
-        "email": null,
-        "data": "2023-02-01",
-        "nomeEleitoral": "Danilo Forte",
-        "gabinete": {
-          "nome": "219",
-          "predio": "4",
-          "sala": "219",
-          "andar": "2",
-          "telefone": "3215-5219",
-          "email": "dep.daniloforte@camara.leg.br"
-        },
-        "situacao": "Exercício",
-        "condicaoEleitoral": "Titular",
-        "descricaoStatus": null
-      },
-      "cpf": "12133728368",
-      "sexo": "M",
-      "urlWebsite": null,
-      "redeSocial": [
-        "https://twitter.com/depdaniloforte",
-        "https://www.facebook.com/depdaniloforte",
-        "https://www.instagram.com/depdaniloforte"
-      ],
-      "dataNascimento": "1958-09-01",
-      "dataFalecimento": null,
-      "ufNascimento": "CE",
-      "municipioNascimento": "Fortaleza",
-      "escolaridade": "Superior"
-    },
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/62881"
-      }
-    ]
-  },
+  "perfil": null,
   "proposicoes_autoria": [
     {
       "id": 2647426,
@@ -10010,5 +9961,5 @@
       "data": "2023-11-21T22:09:28"
     }
   ],
-  "atualizado_em": "2026-10-30T12:23:35.930Z"
+  "atualizado_em": "2026-10-31T11:56:12.186Z"
 }

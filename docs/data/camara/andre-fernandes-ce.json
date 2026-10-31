@@ -4,57 +4,7 @@
   "cargo": "Deputado Federal",
   "uf": "CE",
   "partido": "PL",
-  "perfil": {
-    "dados": {
-      "id": 220657,
-      "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220657",
-      "nomeCivil": "ANDRÉ FERNANDES DE MOURA",
-      "ultimoStatus": {
-        "id": 220657,
-        "uri": "https://dadosabertos.camara.leg.br/api/v2/deputados/220657",
-        "nome": "André Fernandes",
-        "siglaPartido": "PL",
-        "uriPartido": null,
-        "siglaUf": "CE",
-        "idLegislatura": 57,
-        "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220657.jpg",
-        "email": null,
-        "data": "2025-01-10",
-        "nomeEleitoral": "André Fernandes",
-        "gabinete": {
-          "nome": "981",
-          "predio": "3",
-          "sala": "981",
-          "andar": null,
-          "telefone": "3215-5981",
-          "email": "dep.andrefernandes@camara.leg.br"
-        },
-        "situacao": "Exercício",
-        "condicaoEleitoral": "Titular",
-        "descricaoStatus": ""
-      },
-      "cpf": "06634645361",
-      "sexo": "M",
-      "urlWebsite": null,
-      "redeSocial": [
-        "https://twitter.com/andrefernm",
-        "https://www.facebook.com/andrefernm",
-        "https://www.instagram.com/andrefernandes",
-        "https://youtube.com/depandrefernandes"
-      ],
-      "dataNascimento": "1997-12-10",
-      "dataFalecimento": null,
-      "ufNascimento": "CE",
-      "municipioNascimento": "Iguatu",
-      "escolaridade": "Pós-Graduação"
-    },
-    "links": [
-      {
-        "rel": "self",
-        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220657"
-      }
-    ]
-  },
+  "perfil": null,
   "proposicoes_autoria": [
     {
       "id": 2638944,
@@ -11165,5 +11115,5 @@
       "data": "2023-10-31T20:16:37"
     }
   ],
-  "atualizado_em": "2026-10-30T12:23:35.639Z"
+  "atualizado_em": "2026-10-31T11:55:23.071Z"
 }
