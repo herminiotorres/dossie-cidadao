@@ -57,6 +57,18 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2650037,
+      "siglaTipo": "RIC",
+      "numero": 2885,
+      "ano": 2026,
+      "ementa": "Requer que o Ministério da Justiça e Segurança Pública informe quais cenas e imagens justificaram a elevação da classificação indicativa do programa Record Kids: Desenhos Bíblicos para 12 anos e esclareça os critérios aplicados, em comparação com a classificação de 10 anos exibida nos desfiles do Carnaval 2026 na plataforma Globoplay.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650037",
+      "temas": [
+        "seguranca"
+      ]
+    },
+    {
       "id": 2638944,
       "siglaTipo": "RIC",
       "numero": 2188,
@@ -11165,5 +11177,5 @@
       "data": "2023-10-31T20:16:37"
     }
   ],
-  "atualizado_em": "2026-11-03T13:51:07.151Z"
+  "atualizado_em": "2026-11-04T13:59:05.177Z"
 }

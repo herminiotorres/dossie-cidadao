@@ -4,15 +4,15 @@
   "cargo": "Senador",
   "status": "ok",
   "total_promessas": 0,
-  "total_proposicoes_autoria": 274,
+  "total_proposicoes_autoria": 275,
   "temas": {
     "convergente": [],
     "sem_atuacao_encontrada": [],
     "atuacao_fora_das_promessas": []
   },
   "resumo_votos": {
-    "total_votos_registrados": 1091
+    "total_votos_registrados": 1095
   },
   "metodologia_versao": "1.0-cruzamento-por-tema",
-  "gerado_em": "2026-11-03T13:51:13.377Z"
+  "gerado_em": "2026-11-04T13:59:29.568Z"
 }

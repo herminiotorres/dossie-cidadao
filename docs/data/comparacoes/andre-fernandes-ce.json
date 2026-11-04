@@ -4,7 +4,7 @@
   "cargo": "Deputado Federal",
   "status": "ok",
   "total_promessas": 0,
-  "total_proposicoes_autoria": 618,
+  "total_proposicoes_autoria": 619,
   "temas": {
     "convergente": [],
     "sem_atuacao_encontrada": [],
@@ -25,5 +25,5 @@
     "total_votos_registrados": 852
   },
   "metodologia_versao": "1.0-cruzamento-por-tema",
-  "gerado_em": "2026-11-03T13:51:13.353Z"
+  "gerado_em": "2026-11-04T13:59:29.542Z"
 }
