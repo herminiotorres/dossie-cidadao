@@ -56,6 +56,38 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2650841,
+      "siglaTipo": "SSP",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Altera o Decreto-Lei nº 2.848, de 07 de dezembro de 1940 – Código Penal, para dispor sobre o uso de drones no espaço aéreo dos presídios.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650841",
+      "temas": [
+        "seguranca"
+      ]
+    },
+    {
+      "id": 2650299,
+      "siglaTipo": "RPD",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inclusão de Matéria na Ordem do Dia para Apreciação Imediata - REQ 109/2026 CFFC",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650299",
+      "temas": []
+    },
+    {
+      "id": 2650289,
+      "siglaTipo": "RPD",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inclusão de Matéria na Ordem do Dia para Apreciação Imediata - REQ 170/2026 CFFC",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2650289",
+      "temas": []
+    },
+    {
       "id": 2650211,
       "siglaTipo": "REQ",
       "numero": 203,
@@ -23235,5 +23267,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-11-04T13:59:04.856Z"
+  "atualizado_em": "2026-11-05T14:17:58.798Z"
 }
