@@ -56,6 +56,18 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2651837,
+      "siglaTipo": "REQ",
+      "numero": 74,
+      "ano": 2026,
+      "ementa": "Requer a convocação do Ministro de Estado da Educação, Leonardo Barchini, para prestar esclarecimentos sobre o uso do Exame Nacional do Ensino Médio (Enem) para a difusão de conteúdo ideológico e de pautas identificadas com a agenda política da esquerda, bem como sobre os critérios de elaboração e seleção das questões e dos temas de redação.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651837",
+      "temas": [
+        "educacao"
+      ]
+    },
+    {
       "id": 2650841,
       "siglaTipo": "SSP",
       "numero": 1,
@@ -23267,5 +23279,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-11-09T15:36:59.054Z"
+  "atualizado_em": "2026-11-10T14:32:47.177Z"
 }
