@@ -56,6 +56,48 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2651926,
+      "siglaTipo": "RIC",
+      "numero": 2933,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome acerca da antecipação nacional dos pagamentos do Programa Bolsa Família em outubro de 2026, às vésperas do segundo turno das eleições presidenciais.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651926",
+      "temas": []
+    },
+    {
+      "id": 2651924,
+      "siglaTipo": "RIC",
+      "numero": 2931,
+      "ano": 2026,
+      "ementa": "Requer informações à Secretaria de Comunicação Social da Presidência da República acerca do planejamento, da divulgação e das análises jurídicas relacionadas ao anúncio do reajuste de 15,04% do Programa Bolsa Família durante o período eleitoral de 2026.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651924",
+      "temas": []
+    },
+    {
+      "id": 2651923,
+      "siglaTipo": "RIC",
+      "numero": 2930,
+      "ano": 2026,
+      "ementa": "Requer informações à Casa Civil da Presidência da República acerca da utilização de instalações, servidores, equipamentos e serviços públicos na produção de conteúdos de comunicação político-eleitoral durante as eleições de 2026.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651923",
+      "temas": []
+    },
+    {
+      "id": 2651922,
+      "siglaTipo": "RIC",
+      "numero": 2929,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministério da Saúde acerca dos estudos, custos e procedimentos relacionados ao anúncio de possível incorporação de medicamentos para tratamento da obesidade ao Sistema Único de Saúde (SUS), em setembro de 2026.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2651922",
+      "temas": [
+        "saude"
+      ]
+    },
+    {
       "id": 2651837,
       "siglaTipo": "REQ",
       "numero": 74,
@@ -23279,5 +23321,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-11-10T14:32:47.177Z"
+  "atualizado_em": "2026-11-11T13:47:58.158Z"
 }
