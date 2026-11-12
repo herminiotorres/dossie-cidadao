@@ -4,15 +4,15 @@
   "cargo": "Deputado Federal",
   "status": "ok",
   "total_promessas": 0,
-  "total_proposicoes_autoria": 1682,
+  "total_proposicoes_autoria": 1684,
   "temas": {
     "convergente": [],
     "sem_atuacao_encontrada": [],
     "atuacao_fora_das_promessas": [
+      "economia",
       "saude",
       "educacao",
       "seguranca",
-      "economia",
       "trabalho_previdencia",
       "infraestrutura",
       "administracao_publica",
@@ -25,5 +25,5 @@
     "total_votos_registrados": 1101
   },
   "metodologia_versao": "1.0-cruzamento-por-tema",
-  "gerado_em": "2026-11-11T13:48:05.144Z"
+  "gerado_em": "2026-11-12T14:51:03.883Z"
 }

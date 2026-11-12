@@ -56,6 +56,28 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2652935,
+      "siglaTipo": "RIC",
+      "numero": 2961,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministério do Desenvolvimento, Indústria, Comércio e Serviços acerca dos custos, critérios e resultados do programa Move Brasil, destinado ao financiamento de veículos para profissionais de transporte.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652935",
+      "temas": []
+    },
+    {
+      "id": 2652934,
+      "siglaTipo": "RIC",
+      "numero": 2960,
+      "ano": 2026,
+      "ementa": "Requer informações ao Ministério da Fazenda acerca dos fundamentos econômicos, impactos fiscais e critérios da redução do Imposto de Importação incidente sobre remessas internacionais de pequeno valor em 2026.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2652934",
+      "temas": [
+        "economia"
+      ]
+    },
+    {
       "id": 2651926,
       "siglaTipo": "RIC",
       "numero": 2933,
@@ -23321,5 +23343,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-11-11T13:47:58.158Z"
+  "atualizado_em": "2026-11-12T14:50:56.226Z"
 }
