@@ -8,7 +8,7 @@
     "DetalheParlamentar": {
       "noNamespaceSchemaLocation": "https://legis.senado.leg.br/dadosabertos/dados/DetalheParlamentarv6.xsd",
       "Metadados": {
-        "Versao": "12/11/2026 11:44:25",
+        "Versao": "13/11/2026 11:03:48",
         "VersaoServico": "6",
         "DataVersaoServico": "2021-09-09",
         "DescricaoDataSet": "Retorna os detalhes de um Senador informado no parâmetro."
@@ -119,813 +119,6 @@
     }
   },
   "proposicoes_autoria": [
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "135689",
-          "IdentificacaoProcesso": "7728203",
-          "DescricaoIdentificacao": "RQS 134/2019",
-          "Sigla": "RQS",
-          "Numero": "134",
-          "Ano": "2019",
-          "Ementa": "Desarquivamento do Projeto de Lei da Câmara nº 130/2011.",
-          "Data": "2019-03-13"
-        },
-        "IndicadorAutorPrincipal": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "135416",
-          "IdentificacaoProcesso": "7953611",
-          "DescricaoIdentificacao": "RQS 59/2019",
-          "Sigla": "RQS",
-          "Numero": "59",
-          "Ano": "2019",
-          "Ementa": "Desarquivamento da PEC 17/2012.",
-          "Data": "2019-02-20"
-        },
-        "IndicadorAutorPrincipal": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "135413",
-          "IdentificacaoProcesso": "7953610",
-          "DescricaoIdentificacao": "RQS 60/2019",
-          "Sigla": "RQS",
-          "Numero": "60",
-          "Ano": "2019",
-          "Ementa": "Requerimento de desarquivamento das seguintes matérias:  PEC\n45/2013; PEC 98/2011; PFS 3/2013; PLS 424/2014; PLS 423/2014; PLS 422/2014; PLS 421/2014; PLS 411/2014; PLS 248/2014: PLS 349/2013; PLS 16/2013; PLS 354/2012; PLS 706/2011; PLS 298/2011 e PLS 107/2011.",
-          "Data": "2019-02-20"
-        },
-        "IndicadorAutorPrincipal": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "135733",
-          "IdentificacaoProcesso": "7953739",
-          "DescricaoIdentificacao": "RQS 141/2019",
-          "Sigla": "RQS",
-          "Numero": "141",
-          "Ano": "2019",
-          "Ementa": "Desarquivamento do PLC nºs 68, 71 e 82, de 2011; 80 e 131, de 2012; 61 e 64, de 2013; 10, 11, 43, 66 e 113, de 2014.",
-          "Data": "2019-03-13"
-        },
-        "IndicadorAutorPrincipal": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "136167",
-          "IdentificacaoProcesso": "7738877",
-          "DescricaoIdentificacao": "PEC 43/2019",
-          "Sigla": "PEC",
-          "Numero": "43",
-          "Ano": "2019",
-          "Ementa": "Altera o art. 62 da Constituição Federal, para dispor sobre o rito legislativo das Medidas Provisórias e dá outras providências.",
-          "Data": "2019-04-03"
-        },
-        "IndicadorAutorPrincipal": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "136115",
-          "IdentificacaoProcesso": "7737114",
-          "DescricaoIdentificacao": "PEC 39/2019",
-          "Sigla": "PEC",
-          "Numero": "39",
-          "Ano": "2019",
-          "Ementa": "Altera o art. 20 da Constituição Federal e o art. 107 do Ato das Disposições Constitucionais Transitórias para vincular as rendas do petróleo à educação e saúde e excluir essas despesas do teto de gastos instituído pelo Novo Regime Fiscal.",
-          "Data": "2019-04-02"
-        },
-        "IndicadorAutorPrincipal": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "136461",
-          "IdentificacaoProcesso": "7744741",
-          "DescricaoIdentificacao": "RQS 321/2019",
-          "Sigla": "RQS",
-          "Numero": "321",
-          "Ano": "2019",
-          "Ementa": "Autorização para desempenho de missão no exterior no período de 17 a 19 de maio.",
-          "Data": "2019-04-23"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "136656",
-          "IdentificacaoProcesso": "7750001",
-          "DescricaoIdentificacao": "RQS 373/2019",
-          "Sigla": "RQS",
-          "Numero": "373",
-          "Ano": "2019",
-          "Ementa": "Informações ao Ministro de Estado da Economia.",
-          "Data": "2019-05-08"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "136896",
-          "IdentificacaoProcesso": "7755787",
-          "DescricaoIdentificacao": "PRS 48/2019",
-          "Sigla": "PRS",
-          "Numero": "48",
-          "Ano": "2019",
-          "Ementa": "Institui a Frente Parlamentar dos Senadores dos Estados do Norte e do Nordeste.",
-          "Data": "2019-05-21"
-        },
-        "IndicadorAutorPrincipal": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "138088",
-          "IdentificacaoProcesso": "7787711",
-          "DescricaoIdentificacao": "RQS 680/2019",
-          "Sigla": "RQS",
-          "Numero": "680",
-          "Ano": "2019",
-          "Ementa": "Realização de Sessão Especial, em 12 de setembro próximo, destinada a comemorar o aniversário de Juscelino Kubitsckek e o aniversário do Memorial JK.",
-          "Data": "2019-08-13"
-        },
-        "IndicadorAutorPrincipal": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "138145",
-          "IdentificacaoProcesso": "7788837",
-          "DescricaoIdentificacao": "PL 4493/2019",
-          "Sigla": "PL",
-          "Numero": "4493",
-          "Ano": "2019",
-          "Ementa": "Altera a Lei nº 10.861, de 14 de abril de 2004, que institui o Sistema Nacional de Avaliação da Educação Superior - SINAES, para incluir o apoio e o estímulo à prática desportiva entre as dimensões consideradas na avaliação das instituições de educação superior.",
-          "Data": "2019-08-14"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "138689",
-          "IdentificacaoProcesso": "7800953",
-          "DescricaoIdentificacao": "PL 4981/2019",
-          "Sigla": "PL",
-          "Numero": "4981",
-          "Ano": "2019",
-          "Ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para estabelecer a figura do Juiz das Garantias responsável pela supervisão da investigação criminal.",
-          "Data": "2019-09-11"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "138994",
-          "IdentificacaoProcesso": "7815879",
-          "DescricaoIdentificacao": "PL 5225/2019",
-          "Sigla": "PL",
-          "Numero": "5225",
-          "Ano": "2019",
-          "Ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, para determinar que o salário maternidade, quando pago diretamente pela Previdência Social, será disponibilizado à gestante ou à adotante em até 30 (trinta) dias após a sua solicitação.",
-          "Data": "2019-09-24"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "139435",
-          "IdentificacaoProcesso": "7826575",
-          "DescricaoIdentificacao": "PEC 176/2019",
-          "Sigla": "PEC",
-          "Numero": "176",
-          "Ano": "2019",
-          "Ementa": "Altera o § 1º art. 10 do Ato das Disposições Constitucionais e Transitórias, para dispor sobre a licença-maternidade compartilhada.",
-          "Data": "2019-10-16"
-        },
-        "IndicadorAutorPrincipal": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "141923",
-          "IdentificacaoProcesso": "7914358",
-          "DescricaoIdentificacao": "REQ 67/2020 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "67",
-          "Ano": "2020",
-          "Ementa": "Requer licenca artigo 13",
-          "Data": "2020-05-13"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "142538",
-          "IdentificacaoProcesso": "7927092",
-          "DescricaoIdentificacao": "REQ 82/2020 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "82",
-          "Ano": "2020",
-          "Ementa": "Requer licenca para tratar de assunto de interesse parlamentar no estado do Ceara.",
-          "Data": "2020-06-17"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "143337",
-          "IdentificacaoProcesso": "7956960",
-          "DescricaoIdentificacao": "RQS 1361/2020",
-          "Sigla": "RQS",
-          "Numero": "1361",
-          "Ano": "2020",
-          "Ementa": "Adiamento da discussão da MPV nº 927/2020, para o dia 14/07/2020.",
-          "Data": "2020-07-09"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "144244",
-          "IdentificacaoProcesso": "7972903",
-          "DescricaoIdentificacao": "REQ 4/2020 - CMO",
-          "Sigla": "REQ",
-          "Numero": "4",
-          "Ano": "2020",
-          "Ementa": "Eleicao de Coordenador da Bancada do Ceara",
-          "Data": "2020-08-19"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "144404",
-          "IdentificacaoProcesso": "7975518",
-          "DescricaoIdentificacao": "REQ 149/2020 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "149",
-          "Ano": "2020",
-          "Ementa": "Requer licença para desempenhar missão politica no Estado do Ceara.",
-          "Data": "2020-08-27"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "144490",
-          "IdentificacaoProcesso": "7978932",
-          "DescricaoIdentificacao": "PRS 39/2020",
-          "Sigla": "PRS",
-          "Numero": "39",
-          "Ano": "2020",
-          "Ementa": "Autoriza o Município de Juazeiro do Norte, situado no Estado do Ceará, a contratar operação de crédito externo, com garantia da República Federativa do Brasil, junto à Corporação Andina de Fomento (CAF), no valor de até US$ 80.000.000,00 (oitenta milhões de dólares dos Estados Unidos da América).",
-          "Data": "2020-09-02"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "145481",
-          "IdentificacaoProcesso": "8000296",
-          "DescricaoIdentificacao": "REQ 245/2020 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "245",
-          "Ano": "2020",
-          "Ementa": "Requer licença missão politica",
-          "Data": "2020-11-19"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "146729",
-          "IdentificacaoProcesso": "8025160",
-          "DescricaoIdentificacao": "RQS 415/2021",
-          "Sigla": "RQS",
-          "Numero": "415",
-          "Ano": "2021",
-          "Ementa": "Adição de assinatura a Emenda(s) à PEC nº 186/2019.",
-          "Data": "2021-02-23"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "147369",
-          "IdentificacaoProcesso": "8046682",
-          "DescricaoIdentificacao": "REQ 36/2021 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "36",
-          "Ano": "2021",
-          "Ementa": "Requer licença dos trabalhos da Casa, no dia 4 de março de 2021, nos termos do Art. 13, RISF.",
-          "Data": "2021-03-10"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "148342",
-          "IdentificacaoProcesso": "8076047",
-          "DescricaoIdentificacao": "REQ 99/2021 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "99",
-          "Ano": "2021",
-          "Ementa": "Requer licença em 29/04/2021",
-          "Data": "2021-05-10"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "150882",
-          "IdentificacaoProcesso": "8168402",
-          "DescricaoIdentificacao": "REQ 525/2021 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "525",
-          "Ano": "2021",
-          "Ementa": "Requer Licença na data de 18 de novembro.",
-          "Data": "2021-11-18"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "150601",
-          "IdentificacaoProcesso": "8159432",
-          "DescricaoIdentificacao": "PL 3878/2021",
-          "Sigla": "PL",
-          "Numero": "3878",
-          "Ano": "2021",
-          "Ementa": "Dispõe sobre a vedação de cobrança de tarifas no âmbito do Sistema de Pagamentos Instantâneo (Pix) para o envio e recebimento de recursos de pessoas físicas e jurídicas.",
-          "Data": "2021-11-03"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "152579",
-          "IdentificacaoProcesso": "8236926",
-          "DescricaoIdentificacao": "REQ 125/2022 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "125",
-          "Ano": "2022",
-          "Ementa": "Requer licença dos trabalhos da Casa, em 29 de março de 2022.",
-          "Data": "2022-04-04"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "154078",
-          "IdentificacaoProcesso": "8288180",
-          "DescricaoIdentificacao": "REQ 357/2022 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "357",
-          "Ano": "2022",
-          "Ementa": "Requer licença dos trabalhos da Casa, no dia 1º de junho de 2022.",
-          "Data": "2022-07-11"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "157249",
-          "IdentificacaoProcesso": "8441919",
-          "DescricaoIdentificacao": "REQ 214/2023 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "214",
-          "Ano": "2023",
-          "Ementa": "Requer licença para desempenhar missão oficial, nos Países Baixos, Bélgica e na França, com ônus para o Senado Federal.",
-          "Data": "2023-05-04"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "157781",
-          "IdentificacaoProcesso": "8462508",
-          "DescricaoIdentificacao": "REQ 56/2023 - CE",
-          "Sigla": "REQ",
-          "Numero": "56",
-          "Ano": "2023",
-          "Ementa": "Requer, nos termos do art. 73 do Regimento Interno do Senado Federal, a criação de Subcomissão Permanente, composta de 5 (cinco) membros titulares e igual número de suplentes, com o objetivo de acompanhar as políticas de Alfabetização na Idade Certa, no âmbito da Comissão de Educação, Cultura e Esporte.",
-          "Data": "2023-05-30"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "158057",
-          "IdentificacaoProcesso": "8471022",
-          "DescricaoIdentificacao": "REQ 299/2023 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "299",
-          "Ano": "2023",
-          "Ementa": "Requer licença dos trabalhos da Casa, em 16 de maio de 2023.",
-          "Data": "2023-06-12"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "158345",
-          "IdentificacaoProcesso": "8478117",
-          "DescricaoIdentificacao": "CON 2/2023",
-          "Sigla": "CON",
-          "Numero": "2",
-          "Ano": "2023",
-          "Ementa": "Consulta sobre a possibilidade de que um Senador, quando afastado do exercício do mandato para assumir a função de Ministro de Estado, ocupe uma vaga em Conselho de Administração ou Fiscal de empresa estatal ou com participação da União.",
-          "Data": "2023-06-20"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "160189",
-          "IdentificacaoProcesso": "8550206",
-          "DescricaoIdentificacao": "REQ 542/2023 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "542",
-          "Ano": "2023",
-          "Ementa": "Requer licença dos trabalhos da Casa, nos dias 19 e 20 de setembro de 2023.",
-          "Data": "2023-09-26"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "161168",
-          "IdentificacaoProcesso": "8589944",
-          "DescricaoIdentificacao": "REQ 662/2023 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "662",
-          "Ano": "2023",
-          "Ementa": "Requer licença dos trabalhos da Casa, nos dias 1º, 8 e 14 de novembro de 2023.",
-          "Data": "2023-11-21"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "161356",
-          "IdentificacaoProcesso": "8596129",
-          "DescricaoIdentificacao": "RQS 1075/2023",
-          "Sigla": "RQS",
-          "Numero": "1075",
-          "Ano": "2023",
-          "Ementa": "Requer, pela Liderança do PDT, destaque para votação em separado da Emenda nº 109 ao Projeto de Lei nº 3.626/2023.",
-          "Data": "2023-11-29"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "166105",
-          "IdentificacaoProcesso": "8747755",
-          "DescricaoIdentificacao": "REQ 691/2024 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "691",
-          "Ano": "2024",
-          "Ementa": "Requer licença dos trabalhos da Casa, nos dias 29 e 30 de outubro de 2024.",
-          "Data": "2024-11-12"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "162892",
-          "IdentificacaoProcesso": "8641594",
-          "DescricaoIdentificacao": "REQ 196/2024 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "196",
-          "Ano": "2024",
-          "Ementa": "Requer licença dos trabalhos da Casa, nos dias 12, 19, 20 e 26 de março de 2024.",
-          "Data": "2024-04-03"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "170706",
-          "IdentificacaoProcesso": "8923604",
-          "DescricaoIdentificacao": "REQ 587/2025 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "587",
-          "Ano": "2025",
-          "Ementa": "Requer licença dos trabalhos da Casa, nos dias 3, 10, 17, 23 e 24 de setembro de 2025.",
-          "Data": "2025-09-30"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "166104",
-          "IdentificacaoProcesso": "8747721",
-          "DescricaoIdentificacao": "REQ 690/2024 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "690",
-          "Ano": "2024",
-          "Ementa": "Requer licença dos trabalhos da Casa, nos dias 8 e 9 de outubro de 2024.",
-          "Data": "2024-11-12"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "166608",
-          "IdentificacaoProcesso": "8771931",
-          "DescricaoIdentificacao": "REQ 42/2024 - CCJ",
-          "Sigla": "REQ",
-          "Numero": "42",
-          "Ano": "2024",
-          "Ementa": "Requer destaque para votação em separado (com o objetivo de aprovar) a Emenda no. 1775",
-          "Data": "2024-12-11"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "170273",
-          "IdentificacaoProcesso": "8900982",
-          "DescricaoIdentificacao": "PEC 33/2025",
-          "Sigla": "PEC",
-          "Numero": "33",
-          "Ano": "2025",
-          "Ementa": "Modifica o art. 29 da Constituição Federal, para dispor sobre a competência dos tribunais de justiça para processarem e julgarem os vereadores.",
-          "Data": "2025-09-02"
-        },
-        "IndicadorAutorPrincipal": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "171272",
-          "IdentificacaoProcesso": "8941016",
-          "DescricaoIdentificacao": "REQ 31/2025 - MPV 1304/2025",
-          "Sigla": "REQ",
-          "Numero": "31",
-          "Ano": "2025",
-          "Ementa": "Requer destaque para votação em separado, com vistas à supressão, da inserção do art. 3º-F da Lei nº 10.848/2004, constante do Art. 9º da MPV 1304/2025.",
-          "Data": "2025-10-29"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "172366",
-          "IdentificacaoProcesso": "8985691",
-          "DescricaoIdentificacao": "REQ 8/2026 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "8",
-          "Ano": "2026",
-          "Ementa": "Requer licença para desempenhar missão oficial, em Tóquio, Japão.",
-          "Data": "2026-01-15"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
     {
       "identificacao": null,
       "ementa": "",
@@ -1099,6 +292,24 @@
       "temas": [],
       "bruto": {
         "Materia": {
+          "Codigo": "151284",
+          "IdentificacaoProcesso": "8182995",
+          "DescricaoIdentificacao": "RQS 2387/2021",
+          "Sigla": "RQS",
+          "Numero": "2387",
+          "Ano": "2021",
+          "Ementa": "Realização de  sessão especial para comemoração do Bicentenário da Independência do Brasil.",
+          "Data": "2021-12-14"
+        },
+        "IndicadorAutorPrincipal": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
           "Codigo": "157372",
           "IdentificacaoProcesso": "8448291",
           "DescricaoIdentificacao": "PEC 24/2023",
@@ -1211,6 +422,869 @@
       "temas": [],
       "bruto": {
         "Materia": {
+          "Codigo": "136167",
+          "IdentificacaoProcesso": "7738877",
+          "DescricaoIdentificacao": "PEC 43/2019",
+          "Sigla": "PEC",
+          "Numero": "43",
+          "Ano": "2019",
+          "Ementa": "Altera o art. 62 da Constituição Federal, para dispor sobre o rito legislativo das Medidas Provisórias e dá outras providências.",
+          "Data": "2019-04-03"
+        },
+        "IndicadorAutorPrincipal": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "136656",
+          "IdentificacaoProcesso": "7750001",
+          "DescricaoIdentificacao": "RQS 373/2019",
+          "Sigla": "RQS",
+          "Numero": "373",
+          "Ano": "2019",
+          "Ementa": "Informações ao Ministro de Estado da Economia.",
+          "Data": "2019-05-08"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "138689",
+          "IdentificacaoProcesso": "7800953",
+          "DescricaoIdentificacao": "PL 4981/2019",
+          "Sigla": "PL",
+          "Numero": "4981",
+          "Ano": "2019",
+          "Ementa": "Altera o Decreto-Lei nº 3.689, de 3 de outubro de 1941 (Código de Processo Penal), para estabelecer a figura do Juiz das Garantias responsável pela supervisão da investigação criminal.",
+          "Data": "2019-09-11"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "141923",
+          "IdentificacaoProcesso": "7914358",
+          "DescricaoIdentificacao": "REQ 67/2020 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "67",
+          "Ano": "2020",
+          "Ementa": "Requer licenca artigo 13",
+          "Data": "2020-05-13"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "145481",
+          "IdentificacaoProcesso": "8000296",
+          "DescricaoIdentificacao": "REQ 245/2020 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "245",
+          "Ano": "2020",
+          "Ementa": "Requer licença missão politica",
+          "Data": "2020-11-19"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "146729",
+          "IdentificacaoProcesso": "8025160",
+          "DescricaoIdentificacao": "RQS 415/2021",
+          "Sigla": "RQS",
+          "Numero": "415",
+          "Ano": "2021",
+          "Ementa": "Adição de assinatura a Emenda(s) à PEC nº 186/2019.",
+          "Data": "2021-02-23"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "150882",
+          "IdentificacaoProcesso": "8168402",
+          "DescricaoIdentificacao": "REQ 525/2021 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "525",
+          "Ano": "2021",
+          "Ementa": "Requer Licença na data de 18 de novembro.",
+          "Data": "2021-11-18"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "150601",
+          "IdentificacaoProcesso": "8159432",
+          "DescricaoIdentificacao": "PL 3878/2021",
+          "Sigla": "PL",
+          "Numero": "3878",
+          "Ano": "2021",
+          "Ementa": "Dispõe sobre a vedação de cobrança de tarifas no âmbito do Sistema de Pagamentos Instantâneo (Pix) para o envio e recebimento de recursos de pessoas físicas e jurídicas.",
+          "Data": "2021-11-03"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "152579",
+          "IdentificacaoProcesso": "8236926",
+          "DescricaoIdentificacao": "REQ 125/2022 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "125",
+          "Ano": "2022",
+          "Ementa": "Requer licença dos trabalhos da Casa, em 29 de março de 2022.",
+          "Data": "2022-04-04"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "157249",
+          "IdentificacaoProcesso": "8441919",
+          "DescricaoIdentificacao": "REQ 214/2023 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "214",
+          "Ano": "2023",
+          "Ementa": "Requer licença para desempenhar missão oficial, nos Países Baixos, Bélgica e na França, com ônus para o Senado Federal.",
+          "Data": "2023-05-04"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "157781",
+          "IdentificacaoProcesso": "8462508",
+          "DescricaoIdentificacao": "REQ 56/2023 - CE",
+          "Sigla": "REQ",
+          "Numero": "56",
+          "Ano": "2023",
+          "Ementa": "Requer, nos termos do art. 73 do Regimento Interno do Senado Federal, a criação de Subcomissão Permanente, composta de 5 (cinco) membros titulares e igual número de suplentes, com o objetivo de acompanhar as políticas de Alfabetização na Idade Certa, no âmbito da Comissão de Educação, Cultura e Esporte.",
+          "Data": "2023-05-30"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "158057",
+          "IdentificacaoProcesso": "8471022",
+          "DescricaoIdentificacao": "REQ 299/2023 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "299",
+          "Ano": "2023",
+          "Ementa": "Requer licença dos trabalhos da Casa, em 16 de maio de 2023.",
+          "Data": "2023-06-12"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "166105",
+          "IdentificacaoProcesso": "8747755",
+          "DescricaoIdentificacao": "REQ 691/2024 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "691",
+          "Ano": "2024",
+          "Ementa": "Requer licença dos trabalhos da Casa, nos dias 29 e 30 de outubro de 2024.",
+          "Data": "2024-11-12"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "162892",
+          "IdentificacaoProcesso": "8641594",
+          "DescricaoIdentificacao": "REQ 196/2024 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "196",
+          "Ano": "2024",
+          "Ementa": "Requer licença dos trabalhos da Casa, nos dias 12, 19, 20 e 26 de março de 2024.",
+          "Data": "2024-04-03"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "172366",
+          "IdentificacaoProcesso": "8985691",
+          "DescricaoIdentificacao": "REQ 8/2026 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "8",
+          "Ano": "2026",
+          "Ementa": "Requer licença para desempenhar missão oficial, em Tóquio, Japão.",
+          "Data": "2026-01-15"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "135413",
+          "IdentificacaoProcesso": "7953610",
+          "DescricaoIdentificacao": "RQS 60/2019",
+          "Sigla": "RQS",
+          "Numero": "60",
+          "Ano": "2019",
+          "Ementa": "Requerimento de desarquivamento das seguintes matérias:  PEC\n45/2013; PEC 98/2011; PFS 3/2013; PLS 424/2014; PLS 423/2014; PLS 422/2014; PLS 421/2014; PLS 411/2014; PLS 248/2014: PLS 349/2013; PLS 16/2013; PLS 354/2012; PLS 706/2011; PLS 298/2011 e PLS 107/2011.",
+          "Data": "2019-02-20"
+        },
+        "IndicadorAutorPrincipal": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "135733",
+          "IdentificacaoProcesso": "7953739",
+          "DescricaoIdentificacao": "RQS 141/2019",
+          "Sigla": "RQS",
+          "Numero": "141",
+          "Ano": "2019",
+          "Ementa": "Desarquivamento do PLC nºs 68, 71 e 82, de 2011; 80 e 131, de 2012; 61 e 64, de 2013; 10, 11, 43, 66 e 113, de 2014.",
+          "Data": "2019-03-13"
+        },
+        "IndicadorAutorPrincipal": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "136115",
+          "IdentificacaoProcesso": "7737114",
+          "DescricaoIdentificacao": "PEC 39/2019",
+          "Sigla": "PEC",
+          "Numero": "39",
+          "Ano": "2019",
+          "Ementa": "Altera o art. 20 da Constituição Federal e o art. 107 do Ato das Disposições Constitucionais Transitórias para vincular as rendas do petróleo à educação e saúde e excluir essas despesas do teto de gastos instituído pelo Novo Regime Fiscal.",
+          "Data": "2019-04-02"
+        },
+        "IndicadorAutorPrincipal": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "136461",
+          "IdentificacaoProcesso": "7744741",
+          "DescricaoIdentificacao": "RQS 321/2019",
+          "Sigla": "RQS",
+          "Numero": "321",
+          "Ano": "2019",
+          "Ementa": "Autorização para desempenho de missão no exterior no período de 17 a 19 de maio.",
+          "Data": "2019-04-23"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "136896",
+          "IdentificacaoProcesso": "7755787",
+          "DescricaoIdentificacao": "PRS 48/2019",
+          "Sigla": "PRS",
+          "Numero": "48",
+          "Ano": "2019",
+          "Ementa": "Institui a Frente Parlamentar dos Senadores dos Estados do Norte e do Nordeste.",
+          "Data": "2019-05-21"
+        },
+        "IndicadorAutorPrincipal": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "138145",
+          "IdentificacaoProcesso": "7788837",
+          "DescricaoIdentificacao": "PL 4493/2019",
+          "Sigla": "PL",
+          "Numero": "4493",
+          "Ano": "2019",
+          "Ementa": "Altera a Lei nº 10.861, de 14 de abril de 2004, que institui o Sistema Nacional de Avaliação da Educação Superior - SINAES, para incluir o apoio e o estímulo à prática desportiva entre as dimensões consideradas na avaliação das instituições de educação superior.",
+          "Data": "2019-08-14"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "138994",
+          "IdentificacaoProcesso": "7815879",
+          "DescricaoIdentificacao": "PL 5225/2019",
+          "Sigla": "PL",
+          "Numero": "5225",
+          "Ano": "2019",
+          "Ementa": "Altera a Lei nº 8.213, de 24 de julho de 1991, para determinar que o salário maternidade, quando pago diretamente pela Previdência Social, será disponibilizado à gestante ou à adotante em até 30 (trinta) dias após a sua solicitação.",
+          "Data": "2019-09-24"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "142538",
+          "IdentificacaoProcesso": "7927092",
+          "DescricaoIdentificacao": "REQ 82/2020 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "82",
+          "Ano": "2020",
+          "Ementa": "Requer licenca para tratar de assunto de interesse parlamentar no estado do Ceara.",
+          "Data": "2020-06-17"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "147369",
+          "IdentificacaoProcesso": "8046682",
+          "DescricaoIdentificacao": "REQ 36/2021 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "36",
+          "Ano": "2021",
+          "Ementa": "Requer licença dos trabalhos da Casa, no dia 4 de março de 2021, nos termos do Art. 13, RISF.",
+          "Data": "2021-03-10"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "154078",
+          "IdentificacaoProcesso": "8288180",
+          "DescricaoIdentificacao": "REQ 357/2022 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "357",
+          "Ano": "2022",
+          "Ementa": "Requer licença dos trabalhos da Casa, no dia 1º de junho de 2022.",
+          "Data": "2022-07-11"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "156391",
+          "IdentificacaoProcesso": "8392917",
+          "DescricaoIdentificacao": "PEC 8/2023",
+          "Sigla": "PEC",
+          "Numero": "8",
+          "Ano": "2023",
+          "Ementa": "Modifica os arts. 60, 61, 62 e 64 da Constituição Federal, para dispor sobre a iniciativa de proposições pelo Presidente da República.",
+          "Data": "2023-03-14"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "160189",
+          "IdentificacaoProcesso": "8550206",
+          "DescricaoIdentificacao": "REQ 542/2023 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "542",
+          "Ano": "2023",
+          "Ementa": "Requer licença dos trabalhos da Casa, nos dias 19 e 20 de setembro de 2023.",
+          "Data": "2023-09-26"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "161168",
+          "IdentificacaoProcesso": "8589944",
+          "DescricaoIdentificacao": "REQ 662/2023 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "662",
+          "Ano": "2023",
+          "Ementa": "Requer licença dos trabalhos da Casa, nos dias 1º, 8 e 14 de novembro de 2023.",
+          "Data": "2023-11-21"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "161356",
+          "IdentificacaoProcesso": "8596129",
+          "DescricaoIdentificacao": "RQS 1075/2023",
+          "Sigla": "RQS",
+          "Numero": "1075",
+          "Ano": "2023",
+          "Ementa": "Requer, pela Liderança do PDT, destaque para votação em separado da Emenda nº 109 ao Projeto de Lei nº 3.626/2023.",
+          "Data": "2023-11-29"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "166608",
+          "IdentificacaoProcesso": "8771931",
+          "DescricaoIdentificacao": "REQ 42/2024 - CCJ",
+          "Sigla": "REQ",
+          "Numero": "42",
+          "Ano": "2024",
+          "Ementa": "Requer destaque para votação em separado (com o objetivo de aprovar) a Emenda no. 1775",
+          "Data": "2024-12-11"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "135689",
+          "IdentificacaoProcesso": "7728203",
+          "DescricaoIdentificacao": "RQS 134/2019",
+          "Sigla": "RQS",
+          "Numero": "134",
+          "Ano": "2019",
+          "Ementa": "Desarquivamento do Projeto de Lei da Câmara nº 130/2011.",
+          "Data": "2019-03-13"
+        },
+        "IndicadorAutorPrincipal": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "135416",
+          "IdentificacaoProcesso": "7953611",
+          "DescricaoIdentificacao": "RQS 59/2019",
+          "Sigla": "RQS",
+          "Numero": "59",
+          "Ano": "2019",
+          "Ementa": "Desarquivamento da PEC 17/2012.",
+          "Data": "2019-02-20"
+        },
+        "IndicadorAutorPrincipal": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "138088",
+          "IdentificacaoProcesso": "7787711",
+          "DescricaoIdentificacao": "RQS 680/2019",
+          "Sigla": "RQS",
+          "Numero": "680",
+          "Ano": "2019",
+          "Ementa": "Realização de Sessão Especial, em 12 de setembro próximo, destinada a comemorar o aniversário de Juscelino Kubitsckek e o aniversário do Memorial JK.",
+          "Data": "2019-08-13"
+        },
+        "IndicadorAutorPrincipal": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "139435",
+          "IdentificacaoProcesso": "7826575",
+          "DescricaoIdentificacao": "PEC 176/2019",
+          "Sigla": "PEC",
+          "Numero": "176",
+          "Ano": "2019",
+          "Ementa": "Altera o § 1º art. 10 do Ato das Disposições Constitucionais e Transitórias, para dispor sobre a licença-maternidade compartilhada.",
+          "Data": "2019-10-16"
+        },
+        "IndicadorAutorPrincipal": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "143337",
+          "IdentificacaoProcesso": "7956960",
+          "DescricaoIdentificacao": "RQS 1361/2020",
+          "Sigla": "RQS",
+          "Numero": "1361",
+          "Ano": "2020",
+          "Ementa": "Adiamento da discussão da MPV nº 927/2020, para o dia 14/07/2020.",
+          "Data": "2020-07-09"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "144244",
+          "IdentificacaoProcesso": "7972903",
+          "DescricaoIdentificacao": "REQ 4/2020 - CMO",
+          "Sigla": "REQ",
+          "Numero": "4",
+          "Ano": "2020",
+          "Ementa": "Eleicao de Coordenador da Bancada do Ceara",
+          "Data": "2020-08-19"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "144404",
+          "IdentificacaoProcesso": "7975518",
+          "DescricaoIdentificacao": "REQ 149/2020 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "149",
+          "Ano": "2020",
+          "Ementa": "Requer licença para desempenhar missão politica no Estado do Ceara.",
+          "Data": "2020-08-27"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "144490",
+          "IdentificacaoProcesso": "7978932",
+          "DescricaoIdentificacao": "PRS 39/2020",
+          "Sigla": "PRS",
+          "Numero": "39",
+          "Ano": "2020",
+          "Ementa": "Autoriza o Município de Juazeiro do Norte, situado no Estado do Ceará, a contratar operação de crédito externo, com garantia da República Federativa do Brasil, junto à Corporação Andina de Fomento (CAF), no valor de até US$ 80.000.000,00 (oitenta milhões de dólares dos Estados Unidos da América).",
+          "Data": "2020-09-02"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "148342",
+          "IdentificacaoProcesso": "8076047",
+          "DescricaoIdentificacao": "REQ 99/2021 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "99",
+          "Ano": "2021",
+          "Ementa": "Requer licença em 29/04/2021",
+          "Data": "2021-05-10"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "158345",
+          "IdentificacaoProcesso": "8478117",
+          "DescricaoIdentificacao": "CON 2/2023",
+          "Sigla": "CON",
+          "Numero": "2",
+          "Ano": "2023",
+          "Ementa": "Consulta sobre a possibilidade de que um Senador, quando afastado do exercício do mandato para assumir a função de Ministro de Estado, ocupe uma vaga em Conselho de Administração ou Fiscal de empresa estatal ou com participação da União.",
+          "Data": "2023-06-20"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "159061",
+          "IdentificacaoProcesso": "8512702",
+          "DescricaoIdentificacao": "PRS 81/2023",
+          "Sigla": "PRS",
+          "Numero": "81",
+          "Ano": "2023",
+          "Ementa": "Altera a Resolução (SF) nº 93, de 1970, que aprova o Regimento Interno do Senado Federal, para modificar o horário das reuniões da Comissão de Relações Exteriores e Defesa Nacional.",
+          "Data": "2023-08-09"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "170706",
+          "IdentificacaoProcesso": "8923604",
+          "DescricaoIdentificacao": "REQ 587/2025 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "587",
+          "Ano": "2025",
+          "Ementa": "Requer licença dos trabalhos da Casa, nos dias 3, 10, 17, 23 e 24 de setembro de 2025.",
+          "Data": "2025-09-30"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "166104",
+          "IdentificacaoProcesso": "8747721",
+          "DescricaoIdentificacao": "REQ 690/2024 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "690",
+          "Ano": "2024",
+          "Ementa": "Requer licença dos trabalhos da Casa, nos dias 8 e 9 de outubro de 2024.",
+          "Data": "2024-11-12"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "170273",
+          "IdentificacaoProcesso": "8900982",
+          "DescricaoIdentificacao": "PEC 33/2025",
+          "Sigla": "PEC",
+          "Numero": "33",
+          "Ano": "2025",
+          "Ementa": "Modifica o art. 29 da Constituição Federal, para dispor sobre a competência dos tribunais de justiça para processarem e julgarem os vereadores.",
+          "Data": "2025-09-02"
+        },
+        "IndicadorAutorPrincipal": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "171272",
+          "IdentificacaoProcesso": "8941016",
+          "DescricaoIdentificacao": "REQ 31/2025 - MPV 1304/2025",
+          "Sigla": "REQ",
+          "Numero": "31",
+          "Ano": "2025",
+          "Ementa": "Requer destaque para votação em separado, com vistas à supressão, da inserção do art. 3º-F da Lei nº 10.848/2004, constante do Art. 9º da MPV 1304/2025.",
+          "Data": "2025-10-29"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "138108",
+          "IdentificacaoProcesso": "7788352",
+          "DescricaoIdentificacao": "PEC 125/2019",
+          "Sigla": "PEC",
+          "Numero": "125",
+          "Ano": "2019",
+          "Ementa": "Altera o inciso VIII do art. 93 da Constituição Federal para vedar a aposentadoria compulsória como espécie de pena disciplinar aplicável aos magistrados.",
+          "Data": "2019-08-14"
+        },
+        "IndicadorAutorPrincipal": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
           "Codigo": "139511",
           "IdentificacaoProcesso": "7828021",
           "DescricaoIdentificacao": "PEC 177/2019",
@@ -1311,6 +1385,25 @@
           "Ano": "2020",
           "Ementa": "Requer licença para tratar de assunto politico partidário no Estado do CE",
           "Data": "2020-09-17"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "146196",
+          "IdentificacaoProcesso": "8015642",
+          "DescricaoIdentificacao": "RQS 35/2021",
+          "Sigla": "RQS",
+          "Numero": "35",
+          "Ano": "2021",
+          "Ementa": "Adição de assinatura ao RQS nº 1371/2021.",
+          "Data": "2021-02-01"
         },
         "IndicadorAutorPrincipal": "Sim",
         "IndicadorOutrosAutores": "Não"
@@ -1660,6 +1753,44 @@
       "temas": [],
       "bruto": {
         "Materia": {
+          "Codigo": "146518",
+          "IdentificacaoProcesso": "8021704",
+          "DescricaoIdentificacao": "RQS 256/2021",
+          "Sigla": "RQS",
+          "Numero": "256",
+          "Ano": "2021",
+          "Ementa": "Adição de assinatura ao Ofício nº 6/2021, da Senadora Eliziane Gama, Líder do Bloco Senado independente, de indicação do Senador Randolfe Rodrigues para exercer a liderança da oposição.",
+          "Data": "2021-02-11"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "147383",
+          "IdentificacaoProcesso": "8046966",
+          "DescricaoIdentificacao": "REQ 38/2021 - CDIR",
+          "Sigla": "REQ",
+          "Numero": "38",
+          "Ano": "2021",
+          "Ementa": "Licença na Sessão de 10/03/2021",
+          "Data": "2021-03-11"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
           "Codigo": "147944",
           "IdentificacaoProcesso": "8057046",
           "DescricaoIdentificacao": "REQ 13/2021 - CAE",
@@ -1811,6 +1942,24 @@
       "temas": [],
       "bruto": {
         "Materia": {
+          "Codigo": "159357",
+          "IdentificacaoProcesso": "8522083",
+          "DescricaoIdentificacao": "RQS 741/2023",
+          "Sigla": "RQS",
+          "Numero": "741",
+          "Ano": "2023",
+          "Ementa": "Requer, nos termos dos arts. 336, II, e 338, II, do Regimento Interno do Senado Federal, urgência para o PL 2796/2021.",
+          "Data": "2023-08-23"
+        },
+        "IndicadorAutorPrincipal": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
           "Codigo": "161014",
           "IdentificacaoProcesso": "8583770",
           "DescricaoIdentificacao": "REQ 646/2023 - CDIR",
@@ -1822,6 +1971,24 @@
         },
         "IndicadorAutorPrincipal": "Sim",
         "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "162499",
+          "IdentificacaoProcesso": "8610837",
+          "DescricaoIdentificacao": "RQS 157/2024",
+          "Sigla": "RQS",
+          "Numero": "157",
+          "Ano": "2024",
+          "Ementa": "Requer criação de Comissão Parlamentar de Inquérito, composta de 11 membros titulares e 7 membros suplentes, para, no prazo de 180 dias, apurar crimes de violência doméstica e familiar contra a mulher desde 2019 até os dias atuais, com base em diferentes levantamentos e estudos, com a finalidade de investigar a ação ou omissão do poder público com relação à aplicação dos instrumentos instituídos em lei para proteger as mulheres da violência, bem como suas responsabilidades decorrentes do descumprimento da legislação criada para esse fim.",
+          "Data": "2023-12-21"
+        },
+        "IndicadorAutorPrincipal": "Não"
       }
     },
     {
@@ -1879,6 +2046,24 @@
         },
         "IndicadorAutorPrincipal": "Sim",
         "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "135155",
+          "IdentificacaoProcesso": "7717123",
+          "DescricaoIdentificacao": "PEC 3/2019",
+          "Sigla": "PEC",
+          "Numero": "3",
+          "Ano": "2019",
+          "Ementa": "Altera a redação do art. 201 da Constituição Federal, para extinguir o auxílio-reclusão.",
+          "Data": "2019-02-12"
+        },
+        "IndicadorAutorPrincipal": "Não"
       }
     },
     {
@@ -2103,6 +2288,25 @@
           "Ano": "2024",
           "Ementa": "Requer a realização de Audiência Pública para instruir o PL 1070/2024, que institui o Programa de Armazenagem Rural no âmbito do FNO, do FNE e do FCO.",
           "Data": "2024-12-11"
+        },
+        "IndicadorAutorPrincipal": "Sim",
+        "IndicadorOutrosAutores": "Não"
+      }
+    },
+    {
+      "identificacao": null,
+      "ementa": "",
+      "temas": [],
+      "bruto": {
+        "Materia": {
+          "Codigo": "167633",
+          "IdentificacaoProcesso": "8804061",
+          "DescricaoIdentificacao": "REQ 4/2025 - CCJ",
+          "Sigla": "REQ",
+          "Numero": "4",
+          "Ano": "2025",
+          "Ementa": "Requeremos, nos termos dos arts. 336, II, e 338, IV, do Regimento Interno do Senado Federal, urgência para o PL 223/2023 que “acrescenta dispositivo à Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para estabelecer que a gratuidade da justiça não compreende a remuneração do conciliador ou mediador pelo trabalho nas audiências que excederem o percentual referido no § 2º do art. 169 do Código de Processo Civil”",
+          "Data": "2025-03-19"
         },
         "IndicadorAutorPrincipal": "Sim",
         "IndicadorOutrosAutores": "Não"
@@ -5090,210 +5294,6 @@
         "IndicadorAutorPrincipal": "Sim",
         "IndicadorOutrosAutores": "Não"
       }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "167633",
-          "IdentificacaoProcesso": "8804061",
-          "DescricaoIdentificacao": "REQ 4/2025 - CCJ",
-          "Sigla": "REQ",
-          "Numero": "4",
-          "Ano": "2025",
-          "Ementa": "Requeremos, nos termos dos arts. 336, II, e 338, IV, do Regimento Interno do Senado Federal, urgência para o PL 223/2023 que “acrescenta dispositivo à Lei nº 13.105, de 16 de março de 2015 (Código de Processo Civil), para estabelecer que a gratuidade da justiça não compreende a remuneração do conciliador ou mediador pelo trabalho nas audiências que excederem o percentual referido no § 2º do art. 169 do Código de Processo Civil”",
-          "Data": "2025-03-19"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "156391",
-          "IdentificacaoProcesso": "8392917",
-          "DescricaoIdentificacao": "PEC 8/2023",
-          "Sigla": "PEC",
-          "Numero": "8",
-          "Ano": "2023",
-          "Ementa": "Modifica os arts. 60, 61, 62 e 64 da Constituição Federal, para dispor sobre a iniciativa de proposições pelo Presidente da República.",
-          "Data": "2023-03-14"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "159061",
-          "IdentificacaoProcesso": "8512702",
-          "DescricaoIdentificacao": "PRS 81/2023",
-          "Sigla": "PRS",
-          "Numero": "81",
-          "Ano": "2023",
-          "Ementa": "Altera a Resolução (SF) nº 93, de 1970, que aprova o Regimento Interno do Senado Federal, para modificar o horário das reuniões da Comissão de Relações Exteriores e Defesa Nacional.",
-          "Data": "2023-08-09"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "151284",
-          "IdentificacaoProcesso": "8182995",
-          "DescricaoIdentificacao": "RQS 2387/2021",
-          "Sigla": "RQS",
-          "Numero": "2387",
-          "Ano": "2021",
-          "Ementa": "Realização de  sessão especial para comemoração do Bicentenário da Independência do Brasil.",
-          "Data": "2021-12-14"
-        },
-        "IndicadorAutorPrincipal": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "138108",
-          "IdentificacaoProcesso": "7788352",
-          "DescricaoIdentificacao": "PEC 125/2019",
-          "Sigla": "PEC",
-          "Numero": "125",
-          "Ano": "2019",
-          "Ementa": "Altera o inciso VIII do art. 93 da Constituição Federal para vedar a aposentadoria compulsória como espécie de pena disciplinar aplicável aos magistrados.",
-          "Data": "2019-08-14"
-        },
-        "IndicadorAutorPrincipal": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "146196",
-          "IdentificacaoProcesso": "8015642",
-          "DescricaoIdentificacao": "RQS 35/2021",
-          "Sigla": "RQS",
-          "Numero": "35",
-          "Ano": "2021",
-          "Ementa": "Adição de assinatura ao RQS nº 1371/2021.",
-          "Data": "2021-02-01"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "146518",
-          "IdentificacaoProcesso": "8021704",
-          "DescricaoIdentificacao": "RQS 256/2021",
-          "Sigla": "RQS",
-          "Numero": "256",
-          "Ano": "2021",
-          "Ementa": "Adição de assinatura ao Ofício nº 6/2021, da Senadora Eliziane Gama, Líder do Bloco Senado independente, de indicação do Senador Randolfe Rodrigues para exercer a liderança da oposição.",
-          "Data": "2021-02-11"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "147383",
-          "IdentificacaoProcesso": "8046966",
-          "DescricaoIdentificacao": "REQ 38/2021 - CDIR",
-          "Sigla": "REQ",
-          "Numero": "38",
-          "Ano": "2021",
-          "Ementa": "Licença na Sessão de 10/03/2021",
-          "Data": "2021-03-11"
-        },
-        "IndicadorAutorPrincipal": "Sim",
-        "IndicadorOutrosAutores": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "159357",
-          "IdentificacaoProcesso": "8522083",
-          "DescricaoIdentificacao": "RQS 741/2023",
-          "Sigla": "RQS",
-          "Numero": "741",
-          "Ano": "2023",
-          "Ementa": "Requer, nos termos dos arts. 336, II, e 338, II, do Regimento Interno do Senado Federal, urgência para o PL 2796/2021.",
-          "Data": "2023-08-23"
-        },
-        "IndicadorAutorPrincipal": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "162499",
-          "IdentificacaoProcesso": "8610837",
-          "DescricaoIdentificacao": "RQS 157/2024",
-          "Sigla": "RQS",
-          "Numero": "157",
-          "Ano": "2024",
-          "Ementa": "Requer criação de Comissão Parlamentar de Inquérito, composta de 11 membros titulares e 7 membros suplentes, para, no prazo de 180 dias, apurar crimes de violência doméstica e familiar contra a mulher desde 2019 até os dias atuais, com base em diferentes levantamentos e estudos, com a finalidade de investigar a ação ou omissão do poder público com relação à aplicação dos instrumentos instituídos em lei para proteger as mulheres da violência, bem como suas responsabilidades decorrentes do descumprimento da legislação criada para esse fim.",
-          "Data": "2023-12-21"
-        },
-        "IndicadorAutorPrincipal": "Não"
-      }
-    },
-    {
-      "identificacao": null,
-      "ementa": "",
-      "temas": [],
-      "bruto": {
-        "Materia": {
-          "Codigo": "135155",
-          "IdentificacaoProcesso": "7717123",
-          "DescricaoIdentificacao": "PEC 3/2019",
-          "Sigla": "PEC",
-          "Numero": "3",
-          "Ano": "2019",
-          "Ementa": "Altera a redação do art. 201 da Constituição Federal, para extinguir o auxílio-reclusão.",
-          "Data": "2019-02-12"
-        },
-        "IndicadorAutorPrincipal": "Não"
-      }
     }
   ],
   "votos": [
@@ -6903,6 +6903,60 @@
       "TotalVotosAbstencao": "1",
       "SiglaDescricaoVoto": "AP",
       "DescricaoVoto": "Atividade parlamentar"
+    },
+    {
+      "SessaoPlenaria": {
+        "CodigoSessao": "597365",
+        "SiglaCasaSessao": "SF",
+        "CodigoSessaoLegislativa": "874",
+        "SiglaTipoSessao": "DOR",
+        "NumeroSessao": "146",
+        "DataSessao": "2026-11-12",
+        "HoraInicioSessao": "16:00:00"
+      },
+      "Materia": {
+        "Codigo": "176328",
+        "IdentificacaoProcesso": "9127383",
+        "DescricaoIdentificacao": "PLP 299/2026",
+        "Sigla": "PLP",
+        "Numero": "299",
+        "Ano": "2026",
+        "Ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+        "Data": "2026-11-11"
+      },
+      "CodigoSessaoVotacao": "7115",
+      "Sequencial": "1",
+      "IndicadorVotacaoSecreta": "Não",
+      "DescricaoVotacao": "Votação nominal do Requerimento n° 770, de 2026, de Líderes.",
+      "DescricaoResultado": "Aprovado",
+      "SiglaDescricaoVoto": "Sim"
+    },
+    {
+      "SessaoPlenaria": {
+        "CodigoSessao": "597365",
+        "SiglaCasaSessao": "SF",
+        "CodigoSessaoLegislativa": "874",
+        "SiglaTipoSessao": "DOR",
+        "NumeroSessao": "146",
+        "DataSessao": "2026-11-12",
+        "HoraInicioSessao": "16:00:00"
+      },
+      "Materia": {
+        "Codigo": "176328",
+        "IdentificacaoProcesso": "9127383",
+        "DescricaoIdentificacao": "PLP 299/2026",
+        "Sigla": "PLP",
+        "Numero": "299",
+        "Ano": "2026",
+        "Ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências.",
+        "Data": "2026-11-11"
+      },
+      "CodigoSessaoVotacao": "7116",
+      "Sequencial": "2",
+      "IndicadorVotacaoSecreta": "Não",
+      "DescricaoVotacao": "Votação nominal da Emenda nº 75 (Substitutivo) ao PLP nº 299/2026, nos termos do parecer, ressalvados os destaques.",
+      "DescricaoResultado": "Aprovado",
+      "SiglaDescricaoVoto": "Sim"
     },
     {
       "SessaoPlenaria": {
@@ -14276,6 +14330,32 @@
         "Ano": "2025",
         "Ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para vedar a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações (Fust), e a Lei nº 9.998, de 17 de agosto de 2000, para os fins que especifica.",
         "Data": "2026-08-31"
+      },
+      "Tramitacao": {
+        "IdentificacaoTramitacao": {
+          "CodigoTramitacao": "11408196",
+          "NumeroAutuacao": "1",
+          "DataTramitacao": "2026-11-11",
+          "TextoTramitacao": "(Sessão Deliberativa Ordinária - semipresencial - de 11 de novembro de 2026) \nUrgência aprovada para a matéria (Requerimento nº 744/2026). \nParecer nº 219/2026-Plen/SF apresentado pelo Senador Espiridião Amin e encaminhado à publicação (favorável ao projeto, com a emenda nº 1, de redação, que apresenta). \nDiscussão da matéria encerrada. \nProjeto aprovado, com a emenda nº 1, de redação (Sim: 68; Não: 0; Abstenção: 0; Presidente: 1; Total: 69). \nParecer nº 220/2026-Plen/SF, da Comissão Diretora, com a redação final, encaminhado à publicação. \nRedação final aprovada. \nA matéria vai à sanção.  \nA Câmara dos Deputados será comunicada. ",
+          "OrigemTramitacao": {
+            "Local": {
+              "CodigoLocal": "1998",
+              "TipoLocal": "C",
+              "SiglaCasaLocal": "SF",
+              "SiglaLocal": "PLEN",
+              "NomeLocal": "Plenário do Senado Federal"
+            }
+          },
+          "DestinoTramitacao": {
+            "Local": {
+              "CodigoLocal": "1998",
+              "TipoLocal": "C",
+              "SiglaCasaLocal": "SF",
+              "SiglaLocal": "PLEN",
+              "NomeLocal": "Plenário do Senado Federal"
+            }
+          }
+        }
       },
       "CodigoSessaoVotacao": "7114",
       "Sequencial": "1",
@@ -64519,5 +64599,5 @@
       "DescricaoVoto": "Licença saúde"
     }
   ],
-  "atualizado_em": "2026-11-12T14:51:00.439Z"
+  "atualizado_em": "2026-11-13T14:12:23.024Z"
 }
