@@ -57,6 +57,16 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2654540,
+      "siglaTipo": "REQ",
+      "numero": 4476,
+      "ano": 2026,
+      "ementa": "Requer, nos termos regimentais, com anuência do autor, a coautoria do Projeto de Lei nº 2562/2026.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654540",
+      "temas": []
+    },
+    {
       "id": 2650037,
       "siglaTipo": "RIC",
       "numero": 2885,
@@ -11177,5 +11187,5 @@
       "data": "2023-10-31T20:16:37"
     }
   ],
-  "atualizado_em": "2026-11-17T15:41:25.258Z"
+  "atualizado_em": "2026-11-18T15:20:36.638Z"
 }

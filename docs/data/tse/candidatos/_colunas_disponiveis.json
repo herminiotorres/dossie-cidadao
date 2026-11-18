@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-17T15:41:29.985Z",
+  "gerado_em": "2026-11-18T15:20:41.356Z",
   "colunas": [
     "DT_GERACAO",
     "HH_GERACAO",
@@ -22,6 +22,7 @@
     "NM_URNA_CANDIDATO",
     "NM_SOCIAL_CANDIDATO",
     "NR_CPF_CANDIDATO",
+    "NR_CNPJ_CANDIDATO",
     "DS_EMAIL",
     "CD_SITUACAO_CANDIDATURA",
     "DS_SITUACAO_CANDIDATURA",
