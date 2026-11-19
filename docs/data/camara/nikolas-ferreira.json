@@ -56,6 +56,16 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2655108,
+      "siglaTipo": "RPD",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inclusão de Matéria na Ordem do Dia para Apreciação Imediata - REQ 77/2026 CE",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655108",
+      "temas": []
+    },
+    {
       "id": 2654272,
       "siglaTipo": "SBT",
       "numero": 2,
@@ -23365,5 +23375,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-11-18T15:20:36.365Z"
+  "atualizado_em": "2026-11-19T15:26:53.629Z"
 }

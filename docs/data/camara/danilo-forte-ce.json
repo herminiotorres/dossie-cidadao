@@ -56,6 +56,16 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2654964,
+      "siglaTipo": "REL",
+      "numero": 2,
+      "ano": 2026,
+      "ementa": "Sobre as emendas da Comissão de Minas e Energia ao PLN n.º 24, de 2026-CN – Projeto de Lei Orçamentária Anual da União para 2027, nos termos da Resolução nº 1, de 2006-CN.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2654964",
+      "temas": []
+    },
+    {
       "id": 2647426,
       "siglaTipo": "REQ",
       "numero": 4288,
@@ -10010,5 +10020,5 @@
       "data": "2023-11-21T22:09:28"
     }
   ],
-  "atualizado_em": "2026-11-18T15:20:36.889Z"
+  "atualizado_em": "2026-11-19T15:26:54.251Z"
 }
