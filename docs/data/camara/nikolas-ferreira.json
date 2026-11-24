@@ -56,6 +56,56 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2658827,
+      "siglaTipo": "EMP",
+      "numero": 23,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2658827",
+      "temas": []
+    },
+    {
+      "id": 2658826,
+      "siglaTipo": "EMP",
+      "numero": 22,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2658826",
+      "temas": []
+    },
+    {
+      "id": 2658825,
+      "siglaTipo": "EMP",
+      "numero": 21,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2658825",
+      "temas": []
+    },
+    {
+      "id": 2658824,
+      "siglaTipo": "EMP",
+      "numero": 20,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2658824",
+      "temas": []
+    },
+    {
+      "id": 2658823,
+      "siglaTipo": "EMP",
+      "numero": 19,
+      "ano": 0,
+      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2658823",
+      "temas": []
+    },
+    {
       "id": 2655108,
       "siglaTipo": "RPD",
       "numero": 1,
@@ -18520,6 +18570,46 @@
       "data": "2026-09-02T11:42:54"
     },
     {
+      "idVotacao": "2655570-30",
+      "voto": "Sim",
+      "data": "2026-11-23T20:31:18"
+    },
+    {
+      "idVotacao": "2655570-39",
+      "voto": "Não",
+      "data": "2026-11-23T22:10:11"
+    },
+    {
+      "idVotacao": "2655570-41",
+      "voto": "Sim",
+      "data": "2026-11-23T22:37:41"
+    },
+    {
+      "idVotacao": "2655570-44",
+      "voto": "Não",
+      "data": "2026-11-23T22:55:44"
+    },
+    {
+      "idVotacao": "2655570-47",
+      "voto": "Sim",
+      "data": "2026-11-23T23:05:41"
+    },
+    {
+      "idVotacao": "2655570-50",
+      "voto": "Sim",
+      "data": "2026-11-23T23:18:41"
+    },
+    {
+      "idVotacao": "2655570-60",
+      "voto": "Não",
+      "data": "2026-11-24T00:18:31"
+    },
+    {
+      "idVotacao": "2655708-8",
+      "voto": "Não",
+      "data": "2026-11-23T19:28:09"
+    },
+    {
       "idVotacao": "589982-103",
       "voto": "Sim",
       "data": "2026-03-02T21:40:40"
@@ -23375,5 +23465,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-11-23T17:40:34.391Z"
+  "atualizado_em": "2026-11-24T17:12:01.055Z"
 }

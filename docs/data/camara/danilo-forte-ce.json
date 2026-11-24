@@ -50,7 +50,7 @@
     "links": [
       {
         "rel": "self",
-        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/62881?formato=json"
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/62881"
       }
     ]
   },
@@ -6435,6 +6435,46 @@
       "data": "2026-09-02T11:38:15"
     },
     {
+      "idVotacao": "2655570-30",
+      "voto": "Não",
+      "data": "2026-11-23T20:29:50"
+    },
+    {
+      "idVotacao": "2655570-39",
+      "voto": "Sim",
+      "data": "2026-11-23T22:06:03"
+    },
+    {
+      "idVotacao": "2655570-41",
+      "voto": "Não",
+      "data": "2026-11-23T22:40:47"
+    },
+    {
+      "idVotacao": "2655570-44",
+      "voto": "Sim",
+      "data": "2026-11-23T22:57:02"
+    },
+    {
+      "idVotacao": "2655570-47",
+      "voto": "Não",
+      "data": "2026-11-23T23:08:35"
+    },
+    {
+      "idVotacao": "2655570-50",
+      "voto": "Não",
+      "data": "2026-11-23T23:19:21"
+    },
+    {
+      "idVotacao": "2655570-53",
+      "voto": "Sim",
+      "data": "2026-11-23T23:34:58"
+    },
+    {
+      "idVotacao": "2655708-8",
+      "voto": "Sim",
+      "data": "2026-11-23T19:21:40"
+    },
+    {
       "idVotacao": "589982-103",
       "voto": "Não",
       "data": "2026-03-02T21:36:55"
@@ -10020,5 +10060,5 @@
       "data": "2023-11-21T22:09:28"
     }
   ],
-  "atualizado_em": "2026-11-23T17:40:34.877Z"
+  "atualizado_em": "2026-11-24T17:12:01.714Z"
 }
