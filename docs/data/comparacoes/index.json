@@ -5,28 +5,28 @@
     "cargo": "Deputado Federal",
     "status": "ok",
     "total_promessas": 0,
-    "total_proposicoes_autoria": 1692,
+    "total_proposicoes_autoria": 1693,
     "temas": {
       "convergente": [],
       "sem_atuacao_encontrada": [],
       "atuacao_fora_das_promessas": [
+        "administracao_publica",
         "educacao",
         "economia",
         "saude",
         "seguranca",
         "trabalho_previdencia",
         "infraestrutura",
-        "administracao_publica",
         "tecnologia",
         "direitos_humanos",
         "meio_ambiente"
       ]
     },
     "resumo_votos": {
-      "total_votos_registrados": 1109
+      "total_votos_registrados": 1110
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.261Z"
+    "gerado_em": "2026-11-25T16:57:29.505Z"
   },
   {
     "id_interno": "andre-fernandes-ce",
@@ -34,14 +34,14 @@
     "cargo": "Deputado Federal",
     "status": "ok",
     "total_promessas": 0,
-    "total_proposicoes_autoria": 620,
+    "total_proposicoes_autoria": 623,
     "temas": {
       "convergente": [],
       "sem_atuacao_encontrada": [],
       "atuacao_fora_das_promessas": [
-        "seguranca",
         "economia",
         "saude",
+        "seguranca",
         "administracao_publica",
         "trabalho_previdencia",
         "educacao",
@@ -52,10 +52,10 @@
       ]
     },
     "resumo_votos": {
-      "total_votos_registrados": 862
+      "total_votos_registrados": 863
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.264Z"
+    "gerado_em": "2026-11-25T16:57:29.507Z"
   },
   {
     "id_interno": "danilo-forte-ce",
@@ -81,10 +81,10 @@
       ]
     },
     "resumo_votos": {
-      "total_votos_registrados": 823
+      "total_votos_registrados": 825
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.267Z"
+    "gerado_em": "2026-11-25T16:57:29.508Z"
   },
   {
     "id_interno": "andre-figueiredo-ce",
@@ -126,7 +126,7 @@
       "total_votos_registrados": 1103
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.292Z"
+    "gerado_em": "2026-11-25T16:57:29.526Z"
   },
   {
     "id_interno": "alcides-fernandes-senado-ce",
@@ -186,7 +186,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.292Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "ciro-gomes-governador-ce",
@@ -204,7 +204,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.292Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "danilo-soares-governador-ce",
@@ -222,7 +222,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.292Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "pedro-brito-governador-ce",
@@ -240,7 +240,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.292Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "delegado-hugo-governador-ce",
@@ -258,7 +258,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.292Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "ieri-braga-governador-ce",
@@ -276,7 +276,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.292Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "serley-leal-governador-ce",
@@ -294,7 +294,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.292Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "vera-lucia-governador-ce",
@@ -312,7 +312,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.292Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "ze-batista-governador-ce",
@@ -330,7 +330,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.293Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "lula-presidente",
@@ -348,7 +348,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.293Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "flavio-bolsonaro-presidente",
@@ -366,7 +366,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.293Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "pablo-marcal-presidente",
@@ -384,7 +384,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.293Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "ronaldo-caiado-presidente",
@@ -402,7 +402,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.293Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "romeu-zema-presidente",
@@ -420,7 +420,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.293Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "augusto-cury-presidente",
@@ -438,7 +438,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.293Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "cabo-daciolo-presidente",
@@ -456,7 +456,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.293Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "rui-costa-pimenta-presidente",
@@ -474,7 +474,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.293Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "renan-santos-presidente",
@@ -492,7 +492,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.293Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "samara-martins-presidente",
@@ -510,7 +510,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.293Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "hertz-dias-presidente",
@@ -528,7 +528,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.293Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "edmilson-costa-presidente",
@@ -546,7 +546,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.293Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "wilson-grassi-presidente",
@@ -564,7 +564,7 @@
       "total_votos_registrados": 0
     },
     "metodologia_versao": "1.0-cruzamento-por-tema",
-    "gerado_em": "2026-11-24T17:12:09.293Z"
+    "gerado_em": "2026-11-25T16:57:29.527Z"
   },
   {
     "id_interno": "exemplo-vereador-sapl",

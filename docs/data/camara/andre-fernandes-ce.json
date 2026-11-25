@@ -51,11 +51,47 @@
     "links": [
       {
         "rel": "self",
-        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220657"
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220657?formato=json"
       }
     ]
   },
   "proposicoes_autoria": [
+    {
+      "id": 2659316,
+      "siglaTipo": "RIC",
+      "numero": 3054,
+      "ano": 2026,
+      "ementa": "Requer que o Ministério da Fazenda preste informações sobre a alíquota de referência de 11,3% da CBS para 2027, que pode levar o Brasil ao maior imposto sobre o consumo do mundo e encarecer a vida de famílias e empreendedores, sobre os cálculos que a sustentam e sobre as medidas para que a reforma tributária não aumente a carga sobre o contribuinte.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659316",
+      "temas": [
+        "economia",
+        "saude"
+      ]
+    },
+    {
+      "id": 2659242,
+      "siglaTipo": "RIC",
+      "numero": 3052,
+      "ano": 2026,
+      "ementa": "Requer que o Ministério do Planejamento e Orçamento preste esclarecimentos sobre a real capacidade do Projeto de Lei Complementar nº 299/2026, denominado “Plano Moretti”, de conter o avanço da dívida pública, bem como apresente os estudos, as projeções e os cálculos que sustentam as medidas propostas, esclarecendo se o Governo Federal pretende adotar novas medidas de ajuste fiscal e quais serão seus possíveis impactos sobre a população brasileira.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659242",
+      "temas": [
+        "economia",
+        "saude"
+      ]
+    },
+    {
+      "id": 2659157,
+      "siglaTipo": "RPD",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Requerimento de Inclusão de Matéria na Ordem do Dia para Apreciação Imediata - REQ 400/2026 CSPCCO",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659157",
+      "temas": []
+    },
     {
       "id": 2654540,
       "siglaTipo": "REQ",
@@ -6972,6 +7008,11 @@
       "data": "2026-04-22T22:29:24"
     },
     {
+      "idVotacao": "2332174-59",
+      "voto": "Não",
+      "data": "2026-11-24T17:34:32"
+    },
+    {
       "idVotacao": "2351506-102",
       "voto": "Sim",
       "data": "2026-05-28T13:56:59"
@@ -11237,5 +11278,5 @@
       "data": "2023-10-31T20:16:37"
     }
   ],
-  "atualizado_em": "2026-11-24T17:12:01.399Z"
+  "atualizado_em": "2026-11-25T16:57:20.550Z"
 }

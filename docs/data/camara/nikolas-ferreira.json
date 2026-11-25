@@ -56,6 +56,18 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2659078,
+      "siglaTipo": "PFC",
+      "numero": 30,
+      "ano": 2026,
+      "ementa": "Propõe que a Comissão de Fiscalização Financeira e Controle realize, com o auxílio do Tribunal de Contas da União, ato de fiscalização e controle sobre o Pregão Eletrônico nº 290/2026 do Senado Federal, destinado à contratação de serviços de telefonia móvel com fornecimento de aparelhos celulares em comodato, com foco na necessidade da despesa, na exigência de aparelhos iPhone Pro para senadores e diretores, na economicidade da contratação e nas regras de concessão e uso dos bens.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659078",
+      "temas": [
+        "administracao_publica"
+      ]
+    },
+    {
       "id": 2658827,
       "siglaTipo": "EMP",
       "numero": 23,
@@ -18385,6 +18397,11 @@
       "data": "2026-02-10T21:11:22"
     },
     {
+      "idVotacao": "2601150-29",
+      "voto": "Sim",
+      "data": "2026-11-24T16:48:59"
+    },
+    {
       "idVotacao": "2601223-8",
       "voto": "Sim",
       "data": "2026-02-09T19:00:30"
@@ -23465,5 +23482,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-11-24T17:12:01.055Z"
+  "atualizado_em": "2026-11-25T16:57:20.221Z"
 }
