@@ -56,6 +56,16 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2659922,
+      "siglaTipo": "RIC",
+      "numero": 3062,
+      "ano": 2026,
+      "ementa": "Solicita informações ao Ministro de Estado Chefe da Secretaria de Comunicação Social da Presidência da República acerca do plano, registrado por comissão do Partido dos Trabalhadores, de transferir ao Governo Federal os custos da estrutura do festival musical da posse presidencial de 5 de janeiro de 2027, com uso de contratos dos ministérios.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659922",
+      "temas": []
+    },
+    {
       "id": 2659078,
       "siglaTipo": "PFC",
       "numero": 30,
@@ -18102,6 +18112,11 @@
       "data": "2026-06-17T18:38:36"
     },
     {
+      "idVotacao": "2394518-60",
+      "voto": "Não",
+      "data": "2026-11-25T17:29:41"
+    },
+    {
       "idVotacao": "2397087-45",
       "voto": "Sim",
       "data": "2026-03-18T11:56:47"
@@ -23482,5 +23497,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-11-25T16:57:20.221Z"
+  "atualizado_em": "2026-11-26T16:35:56.054Z"
 }

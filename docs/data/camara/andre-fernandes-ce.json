@@ -51,11 +51,21 @@
     "links": [
       {
         "rel": "self",
-        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220657?formato=json"
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/220657"
       }
     ]
   },
   "proposicoes_autoria": [
+    {
+      "id": 2659613,
+      "siglaTipo": "REQ",
+      "numero": 4529,
+      "ano": 2026,
+      "ementa": "Requer, nos termos regimentais, com anuência do autor, a coautoria do Projeto de Lei nº 4751/2024.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2659613",
+      "temas": []
+    },
     {
       "id": 2659316,
       "siglaTipo": "RIC",
@@ -7073,6 +7083,11 @@
       "data": "2026-06-17T18:53:13"
     },
     {
+      "idVotacao": "2394518-60",
+      "voto": "Não",
+      "data": "2026-11-25T17:29:55"
+    },
+    {
       "idVotacao": "2398003-10",
       "voto": "Sim",
       "data": "2026-03-17T19:26:43"
@@ -11278,5 +11293,5 @@
       "data": "2023-10-31T20:16:37"
     }
   ],
-  "atualizado_em": "2026-11-25T16:57:20.550Z"
+  "atualizado_em": "2026-11-26T16:35:56.346Z"
 }
