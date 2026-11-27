@@ -50,7 +50,7 @@
     "links": [
       {
         "rel": "self",
-        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/62881"
+        "href": "https://dadosabertos.camara.leg.br/api/v2/deputados/62881?formato=json"
       }
     ]
   },
@@ -10075,5 +10075,5 @@
       "data": "2023-11-21T22:09:28"
     }
   ],
-  "atualizado_em": "2026-11-26T16:35:56.633Z"
+  "atualizado_em": "2026-11-27T16:21:27.852Z"
 }

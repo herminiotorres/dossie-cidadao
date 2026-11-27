@@ -56,6 +56,16 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2660231,
+      "siglaTipo": "REQ",
+      "numero": 215,
+      "ano": 2026,
+      "ementa": "Solicita informações ao Ministro de Estado Chefe da Casa Civil da Presidência da República acerca do anúncio de criação do Ministério das Pessoas Idosas, feito pelo Presidente da República, especialmente quanto à necessidade de nova estrutura diante da política já existente para a pessoa idosa no Governo Federal e quanto aos novos cargos e despesas a serem custeados pelo contribuinte.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660231",
+      "temas": []
+    },
+    {
       "id": 2659922,
       "siglaTipo": "RIC",
       "numero": 3062,
@@ -23497,5 +23507,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-11-26T16:35:56.054Z"
+  "atualizado_em": "2026-11-27T16:21:27.292Z"
 }
