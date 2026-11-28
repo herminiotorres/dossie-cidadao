@@ -56,6 +56,56 @@
   },
   "proposicoes_autoria": [
     {
+      "id": 2660498,
+      "siglaTipo": "PL",
+      "numero": 6007,
+      "ano": 2026,
+      "ementa": "Veda o transporte de Ministros do Supremo Tribunal Federal em aeronaves das Forças Armadas, ressalvadas as hipóteses que especifica, e dispõe sobre o ressarcimento dos custos do transporte irregular.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660498",
+      "temas": []
+    },
+    {
+      "id": 2660488,
+      "siglaTipo": "PL",
+      "numero": 6006,
+      "ano": 2026,
+      "ementa": "Veda o transporte de Ministros do Supremo Tribunal Federal em aeronaves das Forças Armadas, ressalvadas as hipóteses que especifica, e dispõe sobre o ressarcimento dos custos do transporte irregular.",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660488",
+      "temas": []
+    },
+    {
+      "id": 2660454,
+      "siglaTipo": "RDF",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Redação Final ao PL 5902/2023",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660454",
+      "temas": []
+    },
+    {
+      "id": 2660394,
+      "siglaTipo": "RDF",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Redação Final ao PL 2801/2019",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660394",
+      "temas": []
+    },
+    {
+      "id": 2660393,
+      "siglaTipo": "RDF",
+      "numero": 1,
+      "ano": 0,
+      "ementa": "Redação Final ao PDL 665/2025",
+      "situacao": null,
+      "url": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2660393",
+      "temas": []
+    },
+    {
       "id": 2660231,
       "siglaTipo": "REQ",
       "numero": 215,
@@ -23507,5 +23557,5 @@
       "data": "2023-10-31T20:14:00"
     }
   ],
-  "atualizado_em": "2026-11-27T16:21:27.292Z"
+  "atualizado_em": "2026-11-28T15:15:03.279Z"
 }
